@@ -1,2 +1,6 @@
 # props
-（桌子、杯子、笔记本、文件堆、挂钟、盆栽当前在 scenes/office.py 里，后续拆到这里）
+- `basics.py`：背景墙、地板
+- `jungle_plants.py`：树、藤、灌木、蕨
+- `office_props.py`：办公桌、咖啡杯
+- `charts.py`：秒表、柱子、台阶
+- `links.py`：关系连线（直线/拱形）
