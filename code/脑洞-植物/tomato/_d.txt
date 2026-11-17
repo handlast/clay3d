@@ -1,0 +1,21 @@
+class D:
+    def __init__(s, img): s.img = img; s.d = ImageDraw.Draw(img, "RGBA")
+    def line(s, pts, fill, w): s.d.line([(P(x), P(y)) for x, y in pts], fill=fill, width=max(1, int(P(w))), joint="curve")
+    def poly(s, pts, fill, outline=None): s.d.polygon([(P(x), P(y)) for x, y in pts], fill=fill, outline=outline)
+    def circ(s, x, y, r, fill=None, outline=None, w=1): s.d.ellipse((P(x - r), P(y - r), P(x + r), P(y + r)), fill=fill, outline=outline, width=max(1, int(P(w))))
+    def ell(s, x, y, rx, ry, fill): s.d.ellipse((P(x - rx), P(y - ry), P(x + rx), P(y + ry)), fill=fill)
+    def rect(s, x0, y0, x1, y1, fill=None, outline=None, w=1, r=0):
+        s.d.rounded_rectangle((P(x0), P(y0), P(x1), P(y1)), radius=P(r), fill=fill, outline=outline, width=max(1, int(P(w))) if outline else 0)
+    def text(s, x, y, t, size, fill, anchor="mm", lat=0):
+        al = fill[3] if len(fill) > 3 else 255
+        if al <= 2: return
+        fnt = F(size, lat); X, Y = P(x), P(y)
+        if al >= 253: s.d.text((X, Y), t, font=fnt, fill=fill[:3], anchor=anchor); return
+        b = [int(v) for v in s.d.textbbox((X, Y), t, font=fnt, anchor=anchor)]
+        b[2] += 2; b[3] += 2
+        m = Image.new("L", (b[2] - b[0], b[3] - b[1]), 0)
+        ImageDraw.Draw(m).text((X - b[0], Y - b[1]), t, font=fnt, fill=al, anchor=anchor)
+        s.img.paste(fill[:3], tuple(b), m)
+    def tlen(s, t, size): return s.d.textlength(t, font=F(size)) / S
+
+# ---------- strawberry ----------
