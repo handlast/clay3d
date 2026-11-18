@@ -7,6 +7,7 @@
 ## characters/
 - `<作品>_chars.py`：2D 扁平卡通角色（Pillow 逐帧绘制，带表情）。`frog_chars.py` 和 mantis、webbug 两个作品里的 chars.py 完全相同，只放了一份。
 - `mantis_mchars.py`：螳螂专用角色。
+- `ghostfrog_chars.py`：叶中幽灵蛙（Oreobates foliaspectrum）——正面坐姿 + 俯视两种视角、可分半上色的双色虹膜 `iris()`、落叶堆、树蕨/竹子、头灯科学家、牛与牛蹄印、卵/蝌蚪/一元硬币。
 - 黏土 3D 角色在 `characters/`（根目录）：`macaque_poses.py`（Q 版大头猴）、`clownfish.py`（Q 版小丑鱼）。
 
 ## scenes/

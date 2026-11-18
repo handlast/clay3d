@@ -21,6 +21,7 @@
 | webbug | 住在蜘蛛网上，蜘蛛却不吃它？福建发现1毫米新虫｜Vibe知识大赏 | 新物种 | 2026-11-13 | [code/新物种/webbug/](code/新物种/webbug/) | [bgm.flac](audio/webbug/bgm.flac) |  |
 | mantis | 这丛草里藏着一只螳螂，你能找到吗？9800万年前的伪装高手｜Vibe知识大赏 | 新物种 | 2026-11-15 | [code/新物种/mantis/](code/新物种/mantis/) | [bgm.flac](audio/mantis/bgm.flac) [vo.flac](audio/mantis/vo.flac) |  |
 | frog | 喜欢吃蜗牛的“小角蛙”，是印度第一只？｜Vibe知识大赏 | 新物种 | 2026-11-16 | [code/新物种/frog/](code/新物种/frog/) | [bgm.flac](audio/frog/bgm.flac) [vo.flac](audio/frog/vo.flac) |  |
+| ghostfrog | 这只青蛙的眼睛，上半红、下半铜绿？今年刚命名的“叶中幽灵”蛙｜Vibe知识大赏 | 新物种 | 2026-11-18 | [code/新物种/ghostfrog/](code/新物种/ghostfrog/) | [bgm.flac](audio/ghostfrog/bgm.flac) [vo.flac](audio/ghostfrog/vo.flac) | 2D 扁平 + 云健旁白；跑之前把 vox_durs.json 放回 vox/durs.json（或先跑 vo.py 重新生成旁白） |
 | macaque | 《动物打工人 No.01 爱看同事社交的猴子》（2D 版） | 动物打工人 | 2026-11-13 | [code/动物打工人/macaque/](code/动物打工人/macaque/) | — | No.01 的 2D 初版 |
 | macaque3d | 爱“吃瓜”的猴子，后来地位更高？关键看它爱看哪种瓜｜动物打工人 No.01 | 动物打工人 | 2026-11-15 | [code/动物打工人/macaque3d/](code/动物打工人/macaque3d/) | [bgm.flac](audio/macaque3d/bgm.flac) [vo.flac](audio/macaque3d/vo.flac) | No.01 黏土 3D 成片；黏土模块已在仓库 engine/ characters/ props/ scenes/ |
 | simo | 零下40度在雪里趴一整天，他靠嘴里含雪不被发现｜Vibe知识大赏 | 超级士兵 | 2026-11-13 | [code/超级士兵/simo/](code/超级士兵/simo/) | [bgm.flac](audio/simo/bgm.flac) |  |
