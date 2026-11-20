@@ -9,13 +9,13 @@
 - `mantis_mchars.py`：螳螂专用角色。
 - `ghostfrog_chars.py`：叶中幽灵蛙（Oreobates foliaspectrum）——正面坐姿 + 俯视两种视角、可分半上色的双色虹膜 `iris()`、落叶堆、树蕨/竹子、头灯科学家、牛与牛蹄印、卵/蝌蚪/一元硬币。
 - `jellyfrog_chars.py`：苏拉威西果冻蛙（Rhacophorus kurniatiae）——亮绿飞蛙正面坐姿（可鼓声囊）+ 俯视滑翔姿态（带吸盘的蹼足 `web_hand()`）、透明胶团卵块 `jelly()`（卵→胚→蝌蚪三阶段）、泡沫巢 `foam()`、树枝、小朋友正脸 `kid_face()`、池塘。依赖同目录的 gchars.py（ghostfrog_chars）。
-- 黏土 3D 角色在 `characters/`（根目录）：`macaque_poses.py`（Q 版大头猴）、`clownfish.py`（Q 版小丑鱼）。
+- 黏土 3D 角色在 `characters/`（根目录）：`macaque_poses.py`（Q 版大头猴）、`clownfish.py`（Q 版小丑鱼）、`bumblebee.py`（Q 版熊蜂）。
 
 ## scenes/
 - `macaque3d_world.py`：动物打工人 No.01 的黏土场景装配，依赖根目录 `scenes/office_set.py`、`scenes/jungle.py`。
 - `bridge_world.py` / `zhanshou_world.py` / `border_world.py`：蚂蚁剧情的 2.5D 微距渲染器（透视地面、道具、蚂蚁、景深、调色），三个版本各不相同。
 - `bridge_scene.py` / `zhanshou_scene.py`：《断桥》《斩首》共用的场景件（蚂蚁记录、叶桥、水沟、雨、字幕叠加）。
-- 黏土场景在根目录 `scenes/`：`office.py`、`office_set.py`、`jungle.py`、`reef.py`。
+- 黏土场景在根目录 `scenes/`：`office.py`、`office_set.py`、`jungle.py`、`reef.py`、`hive.py`（蜂蜡墙办公室 / 野外草地）；道具 `props/hive_props.py`（育雏团、蜜罐、实验盒、野花、热成像相机）。
 
 ## props/
 - 这次没有新增道具；黏土道具都在根目录 `props/`：`basics.py`、`charts.py`、`jungle_plants.py`、`links.py`、`office_props.py`、`anemone.py`、`camera_rig.py`。

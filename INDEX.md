@@ -25,6 +25,7 @@
 | jellyfrog | 这只飞蛙的宝宝，住在果冻里？ | 新物种 | 2026-11-20 | [code/新物种/jellyfrog/](code/新物种/jellyfrog/) | [bgm.flac](audio/jellyfrog/bgm.flac) [vo.flac](audio/jellyfrog/vo.flac) | 苏拉威西果冻蛙 Rhacophorus kurniatiae；2D 扁平 + 云健旁白，BGM 雨夜甘美兰；跑之前把 vox_durs.json 放回 vox/durs.json（或先跑 vo.py） |
 | macaque | 《动物打工人 No.01 爱看同事社交的猴子》（2D 版） | 动物打工人 | 2026-11-13 | [code/动物打工人/macaque/](code/动物打工人/macaque/) | — | No.01 的 2D 初版 |
 | macaque3d | 爱“吃瓜”的猴子，后来地位更高？关键看它爱看哪种瓜｜动物打工人 No.01 | 动物打工人 | 2026-11-15 | [code/动物打工人/macaque3d/](code/动物打工人/macaque3d/) | [bgm.flac](audio/macaque3d/bgm.flac) [vo.flac](audio/macaque3d/vo.flac) | No.01 黏土 3D 成片；黏土模块已在仓库 engine/ characters/ props/ scenes/ |
+| claybee | 被嫌只会吃白饭的雄熊蜂，半夜在干嘛？ | 动物打工人 | 2026-11-20 | [code/动物打工人/claybee/](code/动物打工人/claybee/) | [bgm.flac](audio/claybee/bgm.flac) [vo.flac](audio/claybee/vo.flac) | No.04 黏土 3D（雄熊蜂孵卵，Moore & Woodard 2026 RSOS）；模块 characters/bumblebee.py、props/hive_props.py、scenes/hive.py；跑之前把 vox_durs.json 放回 vox/durs.json（或先跑 vo.py） |
 | simo | 零下40度在雪里趴一整天，他靠嘴里含雪不被发现｜Vibe知识大赏 | 超级士兵 | 2026-11-13 | [code/超级士兵/simo/](code/超级士兵/simo/) | [bgm.flac](audio/simo/bgm.flac) |  |
 | york | 一个不想打仗的农村神枪手，怎么让132名敌军投降？｜超级士兵 No.02 | 超级士兵 | 2026-11-16 | [code/超级士兵/york/](code/超级士兵/york/) | [bgm.flac](audio/york/bgm.flac) [vo.flac](audio/york/vo.flac) |  |
 | zhu | 《混种》 | 脑洞-植物 | 2026-10-16 | [code/脑洞-植物/zhu/](code/脑洞-植物/zhu/) | [bgm.flac](audio/zhu/bgm.flac) |  |
