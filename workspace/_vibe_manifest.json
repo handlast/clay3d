@@ -1,0 +1,1874 @@
+{
+ "works": [
+  {
+   "dir": "aliens",
+   "series": "脑洞-植物",
+   "title": "恐龙灭绝的真相，是一座石像打下来的飞碟？｜Vibe知识大赏",
+   "date": "2026-11-01",
+   "note": "娱乐加更（脑洞）",
+   "n_code": 9,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "balrog",
+   "series": "新物种",
+   "title": "它叫“炎魔”，却是只住在人造隧道里的蟋蟀｜Vibe知识大赏",
+   "date": "2026-11-03",
+   "note": "",
+   "n_code": 8,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "berry",
+   "series": "脑洞-植物",
+   "title": "《籽说了算》",
+   "date": "2026-10-17",
+   "note": "",
+   "n_code": 5,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "bolt",
+   "series": "脑洞-植物",
+   "title": "《如果被雷劈7次》",
+   "date": "2026-10-22",
+   "note": "",
+   "n_code": 9,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "bonobo",
+   "series": "其他",
+   "title": "《倭黑猩猩打猎，主力居然是母的？》",
+   "date": "2026-10-31",
+   "note": "",
+   "n_code": 7,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "border",
+   "series": "其他",
+   "title": "《无声的边境》",
+   "date": "2026-11-14",
+   "note": "拿不准→其他（蚂蚁剧情，2.5D）",
+   "n_code": 12,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "braess",
+   "series": "其他",
+   "title": "《布雷斯悖论》",
+   "date": "2026-10-24",
+   "note": "",
+   "n_code": 7,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "bridge",
+   "series": "其他",
+   "title": "《断桥：蚁群最后的防线》",
+   "date": "2026-11-14",
+   "note": "拿不准→其他（蚂蚁剧情，2.5D）",
+   "n_code": 10,
+   "audio": [
+    "music.flac"
+   ]
+  },
+  {
+   "dir": "bun",
+   "series": "脑洞-植物",
+   "title": "《如果一口吞下肉包子》",
+   "date": "2026-10-25",
+   "note": "",
+   "n_code": 9,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "croc",
+   "series": "其他",
+   "title": "鳄鱼妈妈把耳朵贴在地上，是在偷听地底下的娃？｜Vibe知识大赏",
+   "date": "2026-11-05",
+   "note": "",
+   "n_code": 9,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "crow",
+   "series": "其他",
+   "title": "乌鸦做决定比人快一倍？S16选手看了都沉默｜Vibe知识大赏",
+   "date": "2026-11-08",
+   "note": "",
+   "n_code": 10,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "dance",
+   "series": "其他",
+   "title": "《火柴人跳舞》",
+   "date": "2026-10-24",
+   "note": "恶搞片",
+   "n_code": 5,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "drex",
+   "series": "新物种",
+   "title": "《云南长出“菌中霸王龙”？》",
+   "date": "2026-10-27",
+   "note": "按内容归入（新种 D-rex，发布未带 #新物种）",
+   "n_code": 6,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "earwax",
+   "series": "其他",
+   "title": "耳屎不是脏东西，是你耳朵里的防虫墙？｜Vibe知识大赏",
+   "date": "2026-11-06",
+   "note": "",
+   "n_code": 9,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "exostoma",
+   "series": "新物种",
+   "title": "激流冲不走它，靠的竟不是吸盘｜Vibe知识大赏",
+   "date": "2026-11-04",
+   "note": "",
+   "n_code": 13,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "flytrap",
+   "series": "脑洞-植物",
+   "title": "《捕蝇草会数数》",
+   "date": "2026-10-19",
+   "note": "",
+   "n_code": 7,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "fox",
+   "series": "其他",
+   "title": "驯了几代的温顺狐狸，脑子里少了一类“攻击”细胞｜Vibe知识大赏",
+   "date": "2026-11-07",
+   "note": "",
+   "n_code": 15,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "frog",
+   "series": "新物种",
+   "title": "喜欢吃蜗牛的“小角蛙”，是印度第一只？｜Vibe知识大赏",
+   "date": "2026-11-16",
+   "note": "",
+   "n_code": 18,
+   "audio": [
+    "bgm.flac",
+    "vo.flac"
+   ]
+  },
+  {
+   "dir": "fugu",
+   "series": "其他",
+   "title": "河豚宝宝护身，靠的不全是剧毒？｜Vibe知识大赏",
+   "date": "2026-11-09",
+   "note": "",
+   "n_code": 10,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "germ",
+   "series": "其他",
+   "title": "《你一半是细菌》",
+   "date": "2026-10-21",
+   "note": "",
+   "n_code": 7,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "glow",
+   "series": "新物种",
+   "title": "深海里戳它一下，它就闪绿光报警？｜Vibe知识大赏",
+   "date": "2026-11-05",
+   "note": "",
+   "n_code": 9,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "grape",
+   "series": "脑洞-植物",
+   "title": "《葡萄进微波炉会冒火》",
+   "date": "2026-10-19",
+   "note": "",
+   "n_code": 4,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "hag",
+   "series": "其他",
+   "title": "《盲鳗打结》",
+   "date": "2026-10-22",
+   "note": "",
+   "n_code": 8,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "hellchick",
+   "series": "新物种",
+   "title": "恐龙居然有“水果党”？6600 万年前的地狱鸡，没牙也能嚼桃子｜Vibe知识大赏",
+   "date": "2026-11-02",
+   "note": "按内容归入（新种，发布未带 #新物种）",
+   "n_code": 8,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "horse",
+   "series": "其他",
+   "title": "《2026 双火马年（丙午）》",
+   "date": "2026-10-20",
+   "note": "",
+   "n_code": 14,
+   "audio": [
+    "bgm_only.flac",
+    "mix.flac"
+   ]
+  },
+  {
+   "dir": "jaguar",
+   "series": "其他",
+   "title": "两家美洲豹狭路相逢，结果翻起了肚皮？｜Vibe知识大赏",
+   "date": "2026-11-07",
+   "note": "",
+   "n_code": 10,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "killi",
+   "series": "新物种",
+   "title": "不到3厘米的新鱼，全世界只在3个水坑见过？｜Vibe知识大赏",
+   "date": "2026-11-10",
+   "note": "",
+   "n_code": 10,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "leonids",
+   "series": "其他",
+   "title": "曾经每分钟下几千颗的流星雨，18日凌晨又来了｜Vibe知识大赏",
+   "date": "2026-11-09",
+   "note": "",
+   "n_code": 10,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "liver",
+   "series": "脑洞-植物",
+   "title": "这棵小草能让水往高处流？不靠泵，全靠伞柄｜Vibe知识大赏",
+   "date": "2026-11-08",
+   "note": "",
+   "n_code": 10,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "lizard",
+   "series": "其他",
+   "title": "《9900万年前，蜥蜴就会断尾逃命？》",
+   "date": "2026-10-28",
+   "note": "拿不准→其他（化石新发现）",
+   "n_code": 7,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "macaque",
+   "series": "动物打工人",
+   "title": "《动物打工人 No.01 爱看同事社交的猴子》（2D 版）",
+   "date": "2026-11-13",
+   "note": "No.01 的 2D 初版",
+   "n_code": 10,
+   "audio": []
+  },
+  {
+   "dir": "macaque3d",
+   "series": "动物打工人",
+   "title": "爱“吃瓜”的猴子，后来地位更高？关键看它爱看哪种瓜｜动物打工人 No.01",
+   "date": "2026-11-15",
+   "note": "No.01 黏土 3D 成片；黏土模块已在仓库 engine/ characters/ props/ scenes/",
+   "n_code": 13,
+   "audio": [
+    "bgm.flac",
+    "vo.flac"
+   ]
+  },
+  {
+   "dir": "mantis",
+   "series": "新物种",
+   "title": "这丛草里藏着一只螳螂，你能找到吗？9800万年前的伪装高手｜Vibe知识大赏",
+   "date": "2026-11-15",
+   "note": "",
+   "n_code": 16,
+   "audio": [
+    "bgm.flac",
+    "vo.flac"
+   ]
+  },
+  {
+   "dir": "meow",
+   "series": "其他",
+   "title": "猫冲你喵喵叫，是在叫你帮忙？38只猫做了个实验｜Vibe知识大赏",
+   "date": "2026-11-13",
+   "note": "",
+   "n_code": 11,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "meteor",
+   "series": "其他",
+   "title": "火流星为什么先亮、过几分钟才“轰”？｜Vibe知识大赏",
+   "date": "2026-11-08",
+   "note": "",
+   "n_code": 10,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "milktea",
+   "series": "其他",
+   "title": "《为什么第一口奶茶最好喝？》",
+   "date": "2026-10-26",
+   "note": "",
+   "n_code": 4,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "mimosa",
+   "series": "脑洞-植物",
+   "title": "《含羞草会记仇》",
+   "date": "2026-10-20",
+   "note": "",
+   "n_code": 6,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "moth",
+   "series": "其他",
+   "title": "蝙蝠追来，这只蛾子尾巴一刮，对方雷达直接花屏｜Vibe知识大赏",
+   "date": "2026-11-04",
+   "note": "",
+   "n_code": 8,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "muppet",
+   "series": "新物种",
+   "title": "《这条“海马”是冒牌货？在博物馆抽屉里躺错了地方》",
+   "date": "2026-10-31",
+   "note": "按内容归入（发布标签未存档）",
+   "n_code": 7,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "neanderthal",
+   "series": "其他",
+   "title": "《7.5万年前的命案：这根骨头上的洞，是谁干的？》",
+   "date": "2026-11-01",
+   "note": "",
+   "n_code": 8,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "nobel",
+   "series": "其他",
+   "title": "（诺贝尔物理奖，片名未存档）",
+   "date": "2026-10-10",
+   "note": "拿不准→其他（16:9 早期测试）",
+   "n_code": 2,
+   "audio": []
+  },
+  {
+   "dir": "octo",
+   "series": "其他",
+   "title": "章鱼越狱只要三步？科学家拆解了它的钻孔套路｜Vibe知识大赏",
+   "date": "2026-11-06",
+   "note": "",
+   "n_code": 9,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "opto",
+   "series": "其他",
+   "title": "（光遗传与抑郁，片名未存档）",
+   "date": "2026-10-19",
+   "note": "拿不准→其他（16:9 早期测试）",
+   "n_code": 4,
+   "audio": [
+    "bed.flac",
+    "mix.flac"
+   ]
+  },
+  {
+   "dir": "penguin",
+   "series": "其他",
+   "title": "企鹅便便，正在让南极的雪变绿、融得更快？｜Vibe知识大赏",
+   "date": "2026-11-09",
+   "note": "",
+   "n_code": 10,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "roach",
+   "series": "其他",
+   "title": "《蟑螂寻祖》",
+   "date": "2026-10-21",
+   "note": "",
+   "n_code": 5,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "salamander",
+   "series": "其他",
+   "title": "《有毒的火蝾螈，一照紫外灯居然会发光？》",
+   "date": "2026-10-31",
+   "note": "拿不准→其他",
+   "n_code": 7,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "seaamph",
+   "series": "新物种",
+   "title": "两栖动物不能下海？2.37亿年前贵州有一只偏偏下了｜Vibe知识大赏",
+   "date": "2026-11-03",
+   "note": "按内容归入（新种，发布未带 #新物种）",
+   "n_code": 8,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "seal",
+   "series": "其他",
+   "title": "海豹睡个觉，顺手把7种鲸“窃听”了？｜Vibe知识大赏",
+   "date": "2026-11-07",
+   "note": "",
+   "n_code": 10,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "shoes",
+   "series": "其他",
+   "title": "《穿鞋会改造你的骨头？》",
+   "date": "2026-10-28",
+   "note": "",
+   "n_code": 7,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "shroom",
+   "series": "其他",
+   "title": "《吃了见手青，会看见小人？》",
+   "date": "2026-10-26",
+   "note": "",
+   "n_code": 6,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "simo",
+   "series": "超级士兵",
+   "title": "零下40度在雪里趴一整天，他靠嘴里含雪不被发现｜Vibe知识大赏",
+   "date": "2026-11-13",
+   "note": "",
+   "n_code": 11,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "sleep",
+   "series": "脑洞-植物",
+   "title": "《如果11天不睡觉》",
+   "date": "2026-10-22",
+   "note": "",
+   "n_code": 8,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "snake",
+   "series": "其他",
+   "title": "《蛇没有轮子，为什么能滚着逃命？》",
+   "date": "2026-10-31",
+   "note": "拿不准→其他",
+   "n_code": 7,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "sneeze",
+   "series": "脑洞-植物",
+   "title": "《如果把喷嚏憋回去》",
+   "date": "2026-10-24",
+   "note": "",
+   "n_code": 8,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "snowfly",
+   "series": "其他",
+   "title": "零下6度还在雪地散步？这只虫子自带暖气｜Vibe知识大赏",
+   "date": "2026-11-11",
+   "note": "",
+   "n_code": 11,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "spider",
+   "series": "其他",
+   "title": "《蜘蛛睡觉也会做梦抽腿？》",
+   "date": "2026-10-27",
+   "note": "",
+   "n_code": 6,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "sunflower",
+   "series": "脑洞-植物",
+   "title": "三盏灯照着，向日葵为什么偏朝最暗的那盏长？｜Vibe知识大赏",
+   "date": "2026-11-06",
+   "note": "",
+   "n_code": 9,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "tilcayo",
+   "series": "新物种",
+   "title": "被当成家猫收养的“小猫”，竟是百年来第一种新野猫｜Vibe知识大赏",
+   "date": "2026-11-12",
+   "note": "按内容归入（新野猫，发布未带 #新物种）",
+   "n_code": 11,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "toad",
+   "series": "脑洞-植物",
+   "title": "《如果被吞进肚子》",
+   "date": "2026-10-23",
+   "note": "",
+   "n_code": 9,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "tomato",
+   "series": "脑洞-植物",
+   "title": "《番茄会尖叫》",
+   "date": "2026-10-18",
+   "note": "",
+   "n_code": 5,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "trapdoor",
+   "series": "新物种",
+   "title": "涨潮全淹，它家却一滴水不进？住在海里的蜘蛛｜Vibe知识大赏",
+   "date": "2026-11-01",
+   "note": "",
+   "n_code": 8,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "treemuscle",
+   "series": "脑洞-植物",
+   "title": "树也有“肌肉”？被放倒的小杨树，自己把腰掰直了｜Vibe知识大赏",
+   "date": "2026-11-02",
+   "note": "",
+   "n_code": 8,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "ufo",
+   "series": "其他",
+   "title": "《FBI 的 UFO 档案 1947–2026》",
+   "date": "2026-10-25",
+   "note": "",
+   "n_code": 11,
+   "audio": [
+    "bgm.flac",
+    "bgm2.flac"
+   ]
+  },
+  {
+   "dir": "webbug",
+   "series": "新物种",
+   "title": "住在蜘蛛网上，蜘蛛却不吃它？福建发现1毫米新虫｜Vibe知识大赏",
+   "date": "2026-11-13",
+   "note": "",
+   "n_code": 11,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "whale",
+   "series": "新物种",
+   "title": "两个鼻孔都长在左边？史上最歪的鲸｜Vibe知识大赏",
+   "date": "2026-11-11",
+   "note": "",
+   "n_code": 10,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "wormlion",
+   "series": "新物种",
+   "title": "在西藏沙坑里挖死亡漏斗的，竟是一只苍蝇幼虫｜Vibe知识大赏",
+   "date": "2026-11-04",
+   "note": "",
+   "n_code": 8,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "york",
+   "series": "超级士兵",
+   "title": "一个不想打仗的农村神枪手，怎么让132名敌军投降？｜超级士兵 No.02",
+   "date": "2026-11-16",
+   "note": "",
+   "n_code": 15,
+   "audio": [
+    "bgm.flac",
+    "vo.flac"
+   ]
+  },
+  {
+   "dir": "zeno",
+   "series": "其他",
+   "title": "《芝诺的乌龟》",
+   "date": "2026-10-23",
+   "note": "",
+   "n_code": 6,
+   "audio": [
+    "bgm.flac"
+   ]
+  },
+  {
+   "dir": "zhanshou",
+   "series": "其他",
+   "title": "《斩首：最后一道防线》",
+   "date": "2026-11-14",
+   "note": "拿不准→其他（蚂蚁剧情，2.5D）",
+   "n_code": 10,
+   "audio": [
+    "music.flac",
+    "vo.flac"
+   ]
+  },
+  {
+   "dir": "zhu",
+   "series": "脑洞-植物",
+   "title": "《混种》",
+   "date": "2026-10-16",
+   "note": "",
+   "n_code": 5,
+   "audio": [
+    "bgm.flac"
+   ]
+  }
+ ],
+ "audio": [
+  "/workspace/work/aliens/bgm.wav",
+  "/workspace/work/balrog/bgm.wav",
+  "/workspace/work/berry/bgm.wav",
+  "/workspace/work/bolt/bgm.wav",
+  "/workspace/work/bonobo/bgm.wav",
+  "/workspace/work/border/bgm.wav",
+  "/workspace/work/braess/bgm.wav",
+  "/workspace/work/bridge/music.wav",
+  "/workspace/work/bun/bgm.wav",
+  "/workspace/work/croc/bgm.wav",
+  "/workspace/work/crow/bgm.wav",
+  "/workspace/work/dance/bgm.wav",
+  "/workspace/work/drex/bgm.wav",
+  "/workspace/work/earwax/bgm.wav",
+  "/workspace/work/exostoma/bgm.wav",
+  "/workspace/work/flytrap/bgm.wav",
+  "/workspace/work/fox/bgm.wav",
+  "/workspace/work/frog/bgm.wav",
+  "/workspace/work/frog/vo.wav",
+  "/workspace/work/fugu/bgm.wav",
+  "/workspace/work/germ/bgm.wav",
+  "/workspace/work/glow/bgm.wav",
+  "/workspace/work/grape/bgm.wav",
+  "/workspace/work/hag/bgm.wav",
+  "/workspace/work/hellchick/bgm.wav",
+  "/workspace/work/horse/bgm_only.wav",
+  "/workspace/work/horse/mix.wav",
+  "/workspace/work/jaguar/bgm.wav",
+  "/workspace/work/killi/bgm.wav",
+  "/workspace/work/leonids/bgm.wav",
+  "/workspace/work/liver/bgm.wav",
+  "/workspace/work/lizard/bgm.wav",
+  "/workspace/work/macaque3d/bgm.wav",
+  "/workspace/work/macaque3d/vo.wav",
+  "/workspace/work/mantis/bgm.wav",
+  "/workspace/work/mantis/vo.wav",
+  "/workspace/work/meow/bgm.wav",
+  "/workspace/work/meteor/bgm.wav",
+  "/workspace/work/milktea/bgm.wav",
+  "/workspace/work/mimosa/bgm.wav",
+  "/workspace/work/moth/bgm.wav",
+  "/workspace/work/muppet/bgm.wav",
+  "/workspace/work/neanderthal/bgm.wav",
+  "/workspace/work/octo/bgm.wav",
+  "/workspace/work/opto/bed.wav",
+  "/workspace/work/opto/mix.wav",
+  "/workspace/work/penguin/bgm.wav",
+  "/workspace/work/roach/bgm.wav",
+  "/workspace/work/salamander/bgm.wav",
+  "/workspace/work/seaamph/bgm.wav",
+  "/workspace/work/seal/bgm.wav",
+  "/workspace/work/shoes/bgm.wav",
+  "/workspace/work/shroom/bgm.wav",
+  "/workspace/work/simo/bgm.wav",
+  "/workspace/work/sleep/bgm.wav",
+  "/workspace/work/snake/bgm.wav",
+  "/workspace/work/sneeze/bgm.wav",
+  "/workspace/work/snowfly/bgm.wav",
+  "/workspace/work/spider/bgm.wav",
+  "/workspace/work/sunflower/bgm.wav",
+  "/workspace/work/tilcayo/bgm.wav",
+  "/workspace/work/toad/bgm.wav",
+  "/workspace/work/tomato/bgm.wav",
+  "/workspace/work/trapdoor/bgm.wav",
+  "/workspace/work/treemuscle/bgm.wav",
+  "/workspace/work/ufo/bgm.wav",
+  "/workspace/work/ufo/bgm2.wav",
+  "/workspace/work/webbug/bgm.wav",
+  "/workspace/work/whale/bgm.wav",
+  "/workspace/work/wormlion/bgm.wav",
+  "/workspace/work/york/bgm.wav",
+  "/workspace/work/york/vo.wav",
+  "/workspace/work/zeno/bgm.wav",
+  "/workspace/work/zhanshou/music.wav",
+  "/workspace/work/zhanshou/vo.wav",
+  "/workspace/work/zhu/bgm.wav"
+ ],
+ "skipped": [
+  [
+   "aliens/samples/alien_babble.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "aliens/samples/laser.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "aliens/samples/roar.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "aliens/samples/shutter.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "aliens/samples/stone.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "aliens/samples/theremin.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "bridge/sfx.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "exostoma/v1/bgm.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/big2.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/big2.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/card.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/card.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/ct.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/ct.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/double.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/double.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/end.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/end.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/five.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/five.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/gulp.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/gulp.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/hook.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/hook.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/jaw.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/jaw.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/kin.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/kin.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/name.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/name.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/other.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/other.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/q.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/q.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/reveal.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/reveal.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/survey.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/survey.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/who.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "frog/vox/who.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/1.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/1.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/10.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/10.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/11.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/11.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/12.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/12.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/13.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/13.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/14.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/14.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/15.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/15.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/16.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/16.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/17.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/17.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/18.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/18.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/19.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/19.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/2.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/2.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/20.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/20.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/21.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/21.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/22.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/22.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/23.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/23.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/3.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/3.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/4.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/4.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/5.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/5.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/6.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/6.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/7.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/7.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/8.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/8.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/9.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/v2/vo/9.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/1.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/1.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/10.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/10.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/11.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/11.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/12.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/12.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/13.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/13.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/14.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/14.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/15.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/15.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/16.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/16.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/17.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/17.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/18.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/18.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/19.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/19.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/2.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/2.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/20.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/20.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/21.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/21.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/22.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/22.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/23.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/23.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/24.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/24.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/3.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/3.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/4.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/4.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/5.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/5.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/6.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/6.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/7.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/7.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/8.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/8.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/9.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "horse/vo/9.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "macaque3d/vox/big2.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "macaque3d/vox/big2.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "macaque3d/vox/bond.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "macaque3d/vox/bond.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "macaque3d/vox/card.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "macaque3d/vox/card.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "macaque3d/vox/end.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "macaque3d/vox/end.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "macaque3d/vox/fight.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "macaque3d/vox/fight.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "macaque3d/vox/hook.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "macaque3d/vox/hook.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "macaque3d/vox/mate.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "macaque3d/vox/mate.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "macaque3d/vox/q.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "macaque3d/vox/q.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "macaque3d/vox/rank.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "macaque3d/vox/rank.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "macaque3d/vox/reveal.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "macaque3d/vox/reveal.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "macaque3d/vox/timer.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "macaque3d/vox/timer.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "macaque3d/vox/who.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "macaque3d/vox/who.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "macaque3d/vox/why.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "macaque3d/vox/why.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/amber.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/amber.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/big2.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/big2.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/bird.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/bird.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/card.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/card.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/end.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/end.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/first.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/first.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/hook.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/hook.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/lobes.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/lobes.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/match.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/match.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/name.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/name.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/none.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/none.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/q.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/q.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/rear.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/rear.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/reveal.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "mantis/vox/reveal.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "opto/v1.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "opto/v2.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "opto/v3.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "opto/v4.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "opto/v5.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/big1.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/big1.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/big2.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/big2.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/card.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/card.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/end.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/end.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/fear.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/fear.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/give.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/give.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/hook.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/hook.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/hunt2.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/hunt2.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/march.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/march.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/medal.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/medal.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/nowar.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/nowar.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/peek.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/peek.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/pinned.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/pinned.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/q.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/q.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/shot.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/shot.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/shout.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/shout.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/who.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/who.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/why.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "york/vox/why.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "zhanshou/sfx.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "zhanshou/vox/A_云健_浑厚激昂男声.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "zhanshou/vox/B_云希_年轻叙事男声.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "zhanshou/vox/C_云扬_新闻播音男声.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "zhanshou/vox/D_晓晓_温暖女声.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "zhanshou/vox/E_华妍_开源女声.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "zhanshou/vox/piper_huayan.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "zhanshou/vox/zh-CN-XiaoxiaoNeural.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "zhanshou/vox/zh-CN-YunjianNeural.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "zhanshou/vox/zh-CN-YunxiNeural.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "zhanshou/vox/zh-CN-YunyangNeural.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "zhanshou/vox/lines/1.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "zhanshou/vox/lines/1.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "zhanshou/vox/lines/2.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "zhanshou/vox/lines/2.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "zhanshou/vox/lines/3.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "zhanshou/vox/lines/3.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "zhanshou/vox/lines/5.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "zhanshou/vox/lines/5.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "zhanshou/vox/lines/6.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "zhanshou/vox/lines/6.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "zhanshou/vox/lines/7.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "zhanshou/vox/lines/7.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "zhanshou/vox/lines/8.mp3",
+   "中间音频/切片/旧版/音效分轨"
+  ],
+  [
+   "zhanshou/vox/lines/8.wav",
+   "中间音频/切片/旧版/音效分轨"
+  ]
+ ]
+}

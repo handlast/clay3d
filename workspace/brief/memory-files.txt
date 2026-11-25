@@ -1,0 +1,7 @@
+./APPROVAL_PREFERENCES.md
+./ONBOARDING.md
+./OUTER_LOOP_FIRST_RUN.md
+./PROACTIVITY_PREFERENCES.md
+./USER.md
+./proactivity/for-later.md
+./vibe-knowledge-douyin.md

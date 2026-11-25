@@ -1,0 +1,12 @@
+# 《葡萄进微波炉会冒火》 shared timeline (s). 120 BPM.
+BEAT = 0.5; DUR = 45.0
+HOOK_ZAP = [0.15, 0.3]; HOOK_BOOM = 0.45; HOOK_END = 2.6
+MYTH = (2.6, 6.0); MYTH_HITS = [3.0, 4.0, 5.2]
+WHOLE = (6.0, 9.0); WHOLE_TOUCH = 7.0; WHOLE_ZAP = 7.6
+BEAD = (9.0, 12.0); BEAD_SALT = 9.8; BEAD_ZAP = 10.4; ANSWER = 11.0
+RES = (12.0, 19.5); BOUNCE = [13.0, 14.5, 16.0, 17.0]
+RISER = (17.5, 19.5); SILENCE = (19.5, 20.0); BURST = 20.0
+EGG = (24.0, 30.0); EGG_HITS = [25.0, 26.6, 28.2]
+SPEC = (30.0, 35.0); SPEC_HITS = [31.0, 32.0, 33.0, 34.0]
+NANO = (35.0, 39.0)
+OUTRO = 39.0; LAST_ZAP = 44.0

@@ -1,0 +1,201 @@
+# Flat 2D characters for 《狐狸变温顺》: silver fox (tame 0..1 morph), mouse, brain, neurons
+import math, random
+from fx import *
+import easing as E
+
+FUR = (92, 104, 132); FUR_D = (64, 74, 100); FUR_L = (150, 162, 190); CREAM = (244, 236, 220); NOSE = (40, 36, 52)
+TAME = (255, 168, 90); MEAN = (255, 86, 96); MINT = (110, 230, 170); GOLD = (255, 205, 70); NAVYT = (22, 22, 40)
+PINK = (255, 150, 200); CYAN2 = (90, 220, 255); MAG = (255, 90, 200)
+def mix(c1, c2, k): return tuple(int(c1[i] + (c2[i] - c1[i]) * k) for i in range(3))
+def lerp_(a, b, k): return a + (b - a) * k
+def rot(px, py, cx, cy, a): ca, sa = math.cos(a), math.sin(a); return (cx + (px - cx) * ca - (py - cy) * sa, cy + (px - cx) * sa + (py - cy) * ca)
+
+def flatbg(d, top, bot, t, deco=True, col=WHITE):
+    grad(d, top, bot)
+    if deco:
+        for i in range(7):
+            x = (i * 173 + t * 18) % 1300 - 110; y = 300 + (i * 251) % 1200
+            d.circ(x, y, 60 + (i * 37) % 80, fill=A(col, 0.035))
+
+def R(d, x0, y0, x1, y1, **kw): d.rect(min(x0, x1), min(y0, y1), max(x0, x1), max(y0, y1), **kw)
+def fox(d, x, y, s, t, tame=0.0, mood="neutral", a=1.0, flip=1, wag=0.0, bob=1.0, ears=None, snout=None, curl=None, col=None, lunge=0.0):
+    """side view, facing right if flip=1 (all geometry in local coords, mirrored once by S -> no flip glitches).
+    tame drives ears/snout/curl unless given separately (0 wild .. 1 domestic)."""
+    ek = tame if ears is None else ears; sk = tame if snout is None else snout; ck = tame if curl is None else curl
+    fur = col or FUR; furd = mix(fur, (0, 0, 0), 0.3)
+    S = lambda px, py: (x + flip * (px + lunge) * s, y + py * s)
+    by = -5 * math.sin(t * 3) * bob
+    # tail: chain whose heading turns smoothly with curl (never changes direction of turn)
+    px, py = -150.0, -5.0 + by; ang = math.pi - 0.25 - 0.12 * math.sin(t * 4 + wag) * (0.4 + ck)
+    pts = []
+    for i in range(22):
+        pts.append((px, py))
+        ang += (0.03 + 0.24 * ck) * (1 if i > 2 else 0.3)  # positive turn = toward up then forward (over the back)
+        px += math.cos(ang) * 14; py += math.sin(ang) * 14
+    for i, (qx, qy) in enumerate(pts):
+        r = 30 * (0.55 + 0.7 * math.sin((i + 2) / 23 * math.pi))
+        d.circ(*S(qx, qy), r * s, fill=A(CREAM if i > 17 else fur, a))
+    # far legs (darker) then body then near legs
+    for lx, ph in ((-95, 1.7), (75, 0.2)):
+        sw = 7 * math.sin(t * 6 + ph) * bob
+        R(d, *S(lx - 13 + sw, 30 + by), *S(lx + 13 + sw, 145), fill=A(furd, a), r=12 * s)
+    d.ell(*S(0, 10 + by), 170 * s, 80 * s, A(fur, a))
+    d.ell(*S(105, 32 + by), 72 * s, 56 * s, A(CREAM, a))
+    for lx, ph in ((-120, 0.0), (55, 1.4)):
+        sw = 7 * math.sin(t * 6 + ph) * bob
+        R(d, *S(lx - 14 + sw, 40 + by), *S(lx + 14 + sw, 150), fill=A(fur, a), r=12 * s)
+    hx, hy = 168, -72 + by
+    L = lerp_(125, 72, sk)
+    # ears (behind head = far ear, front = near ear). droop: tip moves forward/down along an arc OUTSIDE the head, inner colour fades.
+    def ear(ex, sz, c, inner):
+        bx, byy = hx + ex, hy - 50
+        th = -math.radians(160) * ek
+        P0 = [(-32 * sz, 6), (0, -108 * sz * (1 - 0.15 * ek)), (32 * sz, 6)]
+        P1 = [(-14 * sz, 0), (0, -74 * sz), (14 * sz, 0)]
+        rp = lambda p: S(*rot(bx + p[0], byy + p[1], bx, byy, th))
+        d.poly([rp(p) for p in P0], A(mix(c, (40, 46, 70), 0.75 * ek) if inner else c, a))
+        if inner: d.poly([rp(p) for p in P1], A(PINK, 0.65 * a * (1 - ek)))
+    ear(-42, 1.0, furd, False)
+    d.poly([S(hx - 25, hy - 58), S(hx + L, hy + 20), S(hx - 15, hy + 60)], A(fur, a))
+    d.circ(*S(hx, hy), 76 * s, fill=A(fur, a))
+    d.poly([S(hx + 8, hy + 22), S(hx + L, hy + 20), S(hx + 8, hy + 60)], A(CREAM, a))
+    d.circ(*S(hx + L - 2, hy + 18), 15 * s, fill=A(NOSE, a))
+    ear(8, 0.95, fur, True)
+    ex_, ey_ = hx + 32, hy - 8
+    if mood == "angry":
+        d.ell(*S(ex_, ey_), 15 * s, 10 * s, A(GOLD, a)); d.ell(*S(ex_ + 3, ey_), 5 * s, 9 * s, A(NOSE, a))
+        d.line([S(ex_ - 24, ey_ - 28), S(ex_ + 22, ey_ - 12)], A(NOSE, a), 7 * s)
+        mx = hx + 8 + (L - 8) * 0.45; my = hy + 44
+        d.poly([S(mx - 34, my - 6), S(mx + 40, my - 8), S(mx + 30, my + 18), S(mx - 28, my + 18)], A((120, 40, 60), a))
+        for j in range(4): d.poly([S(mx - 30 + j * 18, my - 6), S(mx - 22 + j * 18, my + 9), S(mx - 14 + j * 18, my - 6)], A(WHITE, a))
+    elif mood == "happy":
+        cx_, cy_ = S(ex_, ey_ + 4); d.arc(cx_, cy_, 15 * s, 11 * s, 200, 340, A(NOSE, a), 7 * s)
+        d.circ(*S(ex_ - 8, ey_ + 30), 14 * s, fill=A(PINK, 0.5 * a))
+        mx = hx + 8 + (L - 8) * 0.5; my = hy + 46
+        d.poly([S(mx - 10, my - 2), S(mx + 20, my - 2), S(mx + 6, my + 30)], A((240, 110, 140), a))
+    else:
+        d.circ(*S(ex_, ey_), 11 * s, fill=A(NOSE, a)); d.circ(*S(ex_ + 3, ey_ - 4), 4 * s, fill=A(WHITE, a))
+    return S(hx, hy)
+
+def mouse(d, x, y, s, t, mood="neutral", a=1.0, flip=1, col=(200, 200, 215)):
+    S = lambda px, py: (x + flip * px * s, y + py * s)
+    pts = [S(-80 - 60 * u, 20 - 30 * math.sin(u * 3 + t * 4) * u) for u in [i / 10 for i in range(11)]]
+    d.line(pts, A((240, 170, 190), a), 6 * s)
+    d.ell(*S(0, 0), 90 * s, 55 * s, A(col, a))
+    d.poly([S(50, -40), S(130, 10), S(50, 40)], A(col, a))
+    d.circ(*S(130, 10), 9 * s, fill=A((240, 120, 150), a))
+    d.circ(*S(30, -50), 30 * s, fill=A(col, a)); d.circ(*S(30, -50), 18 * s, fill=A((245, 180, 200), a))
+    if mood == "angry":
+        d.line([S(66, -24), S(96, -12)], A(NOSE, a), 6 * s); d.circ(*S(84, -6), 8 * s, fill=A(MEAN, a))
+    else:
+        d.circ(*S(84, -8), 8 * s, fill=A(NOSE, a))
+
+def brain(d, cx, cy, s, a=1.0, col=(255, 170, 190), col2=(230, 130, 160)):
+    """flat side-view brain (mammal-ish), front to the right"""
+    lobes = [(-90, -40, 120, 90), (40, -50, 120, 85), (-20, -90, 110, 60), (120, 10, 70, 60), (-130, 20, 70, 60)]
+    for lx, ly, rx, ry in lobes: d.ell(cx + lx * s, cy + ly * s, rx * s, ry * s, A(col, a))
+    d.ell(cx - 170 * s, cy + 70 * s, 70 * s, 45 * s, A(col2, a))  # cerebellum
+    d.rect(cx - 70 * s, cy + 60 * s, cx - 20 * s, cy + 190 * s, fill=A(col2, a), r=20 * s)  # brainstem
+    for i in range(6):
+        x0 = cx + (-150 + i * 55) * s
+        d.arc(x0 + 35 * s, cy - 45 * s, 35 * s, 55 * s, 200, 330, A(col2, 0.8 * a), 8 * s)
+
+def neuron(d, x, y, r, col, a=1.0, t=0.0, lit=1.0):
+    if lit > 0.01:
+        for i in range(5, 0, -1): d.circ(x, y, r * (1 + i * 0.6), fill=A(col, 0.06 * a * lit))
+    for j in range(5):
+        an = j * 1.256 + x * 0.01
+        d.line([(x, y), (x + math.cos(an) * r * 2.2, y + math.sin(an) * r * 2.2)], A(mix((70, 80, 110), col, lit), 0.8 * a), max(2, r * 0.25))
+    d.circ(x, y, r, fill=A(mix((70, 80, 110), col, lit), a))
+    if lit > 0.5: d.circ(x - r * 0.3, y - r * 0.3, r * 0.3, fill=A(WHITE, 0.6 * a * lit))
+
+# ---------------- big cats (哈基米 style, side view; mirrored once via S) ----------------
+JAG = (238, 172, 72); JAG_D = (84, 52, 30); TIG = (244, 128, 44); TIG_D = (44, 30, 32); BELLY = (250, 240, 222)
+ROS = [(-95, -25), (-60, 10), (-20, -35), (15, 5), (55, -30), (85, 15), (-120, 15), (-35, 35), (40, 40), (100, -10)]
+def bigcat(d, x, y, s, t, sp="jag", pose="stand", mood="neutral", a=1.0, flip=1, bob=1.0, cub=False, lick=0.0, flat=0.0, wag=0.0, look_up=0.0):
+    fur = JAG if sp == "jag" else TIG; dk = JAG_D if sp == "jag" else TIG_D
+    if cub: s = s * 0.62
+    hs = 1.3 if cub else 1.0
+    S = lambda px, py: (x + flip * px * s, y + py * s)
+    by = -4 * math.sin(t * 3) * bob
+    def spots(cx0, cy0, rx, ry, top_only=False):
+        for (px, py) in ROS:
+            qx, qy = cx0 + px * rx / 150, cy0 + py * ry / 70
+            if top_only and py > 10: continue
+            if sp == "jag":
+                d.circ(*S(qx, qy), 13 * s, fill=A(dk, a)); d.circ(*S(qx + 1, qy), 7 * s, fill=A(mix(fur, dk, 0.25), a))
+    def stripes(cx0, cy0, rx, ry, up=1):
+        if sp != "tig": return
+        for i, px in enumerate((-110, -65, -20, 25, 70, 110)):
+            qx = cx0 + px * rx / 150; L = ry * (0.9 if i % 2 else 0.65)
+            yt = cy0 - up * ry * 0.95
+            d.poly([S(qx - 11, yt), S(qx + 11, yt), S(qx + 3, yt + up * L)], A(dk, a))
+    if pose == "stand":
+        # tail
+        px, py = -140.0, -10.0 + by; ang = math.pi + 0.6
+        for i in range(16):
+            r = 17 if i < 14 else 19
+            col = dk if (sp == "tig" and i % 3 == 0) or (sp == "jag" and i > 12) else fur
+            d.circ(*S(px, py), r * s, fill=A(col, a))
+            ang += 0.13 + 0.06 * math.sin(t * 3 + wag + i * 0.3)
+            px += math.cos(ang) * 14; py += math.sin(ang) * 14
+        for lx, ph in ((-90, 1.7), (80, 0.2)):
+            sw = 6 * math.sin(t * 6 + ph) * bob
+            R(d, *S(lx - 16 + sw, 20 + by), *S(lx + 16 + sw, 120), fill=A(mix(fur, (0, 0, 0), 0.22), a), r=14 * s)
+        d.ell(*S(0, 0 + by), 155 * s, 72 * s, A(fur, a))
+        d.ell(*S(10, 38 + by), 110 * s, 30 * s, A(BELLY, a))
+        spots(0, -5 + by, 150, 60, True); stripes(0, by, 150, 70)
+        for lx, ph in ((-115, 0.0), (60, 1.4)):
+            sw = 6 * math.sin(t * 6 + ph) * bob
+            R(d, *S(lx - 17 + sw, 25 + by), *S(lx + 17 + sw, 125), fill=A(fur, a), r=15 * s)
+            d.ell(*S(lx + sw + 4, 122), 24 * s, 11 * s, A(BELLY, a))
+        hx, hy = 150, -62 + by
+    else:  # belly up, legs in the air
+        px, py = -150.0, 40.0
+        for i in range(14):
+            d.circ(*S(px, py), 16 * s, fill=A(fur if i < 12 else dk, a)); px -= 12; py -= 6 * math.sin(t * 5 + i * 0.5)
+        d.ell(*S(0, 40), 155 * s, 62 * s, A(fur, a))
+        spots(0, 70, 150, 40)
+        d.ell(*S(0, 18), 125 * s, 38 * s, A(BELLY, a))
+        for i, lx in enumerate((-110, -60, 50, 100)):
+            sw = 14 * math.sin(t * 7 + i * 1.3)
+            R(d, *S(lx - 15, 15), *S(lx - 15 + sw + 30, -70), fill=A(fur, a), r=14 * s)
+            d.circ(*S(lx + sw * 1.0, -72), 20 * s, fill=A(BELLY, a))
+        hx, hy = 165, 20
+    # head (round, 哈基米 style)
+    hr = 72 * hs
+    for ex in (-38, 38):  # ears; flat=1 rotates them back (飞机耳)
+        bx, byy = hx + ex * hs, hy - hr * 0.72
+        th = (-1.25 if ex < 0 else -1.05) * flat
+        pts = [(-26 * hs, 8), (0, -48 * hs), (26 * hs, 8)]
+        rp = lambda p: S(*rot(bx + p[0], byy + p[1], bx, byy, th))
+        d.poly([rp(p) for p in pts], A(fur, a))
+        d.poly([rp((p[0] * 0.5, p[1] * 0.55 + 4)) for p in pts], A(dk if sp == "tig" else (190, 110, 90), a))
+    d.circ(*S(hx, hy), hr * s, fill=A(fur, a))
+    d.ell(*S(hx + 30 * hs, hy + 30 * hs), 44 * hs * s, 30 * hs * s, A(BELLY, a))
+    if sp == "tig":
+        for j in (-1, 0, 1): d.poly([S(hx + j * 18 - 7, hy - hr + 4), S(hx + j * 18 + 7, hy - hr + 4), S(hx + j * 18, hy - hr + 34)], A(dk, a))
+        d.poly([S(hx - hr + 2, hy - 8), S(hx - hr + 2, hy + 10), S(hx - hr + 34, hy + 1)], A(dk, a))
+    elif not cub:
+        for (qx, qy) in ((-30, -40), (-46, -10), (-10, -52)): d.circ(*S(hx + qx, hy + qy), 7 * s, fill=A(dk, a))
+    ex_, ey_ = hx + 26 * hs, hy - 12 * hs - look_up * 6
+    if mood in ("hiss", "angry"):
+        d.ell(*S(ex_, ey_), 15 * s * hs, 9 * s * hs, A((250, 230, 120), a)); d.ell(*S(ex_ + 2, ey_), 4 * s * hs, 8 * s * hs, A(NOSE, a))
+        d.line([S(ex_ - 20, ey_ - 24), S(ex_ + 16, ey_ - 10)], A(NOSE, a), 6 * s)
+    elif mood == "happy":
+        cx_, cy_ = S(ex_, ey_ + 4); d.arc(cx_, cy_, 13 * s * hs, 10 * s * hs, 200, 340, A(NOSE, a), 6 * s)
+        d.circ(*S(ex_ - 6, ey_ + 30), 13 * s, fill=A(PINK, 0.55 * a))
+    else:
+        d.circ(*S(ex_, ey_), 12 * s * hs, fill=A(NOSE, a)); d.circ(*S(ex_ + 3, ey_ - 4), 4 * s * hs, fill=A(WHITE, a))
+    nx, ny = hx + 64 * hs, hy + 14 * hs
+    d.poly([S(nx - 8, ny - 6), S(nx + 6, ny - 6), S(nx - 1, ny + 5)], A((230, 120, 130), a))
+    if mood == "hiss":
+        d.poly([S(nx - 26, ny + 16), S(nx + 6, ny + 14), S(nx, ny + 44), S(nx - 22, ny + 40)], A((110, 30, 50), a))
+        d.poly([S(nx - 20, ny + 16), S(nx - 14, ny + 30), S(nx - 9, ny + 16)], A(WHITE, a)); d.poly([S(nx - 4, ny + 15), S(nx + 0, ny + 28), S(nx + 4, ny + 15)], A(WHITE, a))
+    else:
+        d.line([S(nx - 1, ny + 5), S(nx - 6, ny + 14), S(nx - 14, ny + 12)], A(NOSE, a), 4 * s)
+    if lick > 0:
+        d.ell(*S(nx + 6 + 14 * lick, ny + 20), (10 + 12 * lick) * s, 9 * s, A((240, 110, 140), a))
+    for k in (-1, 1):
+        d.line([S(nx - 18, ny + 6), S(nx + 30, ny + 6 + k * 12)], A(WHITE, 0.7 * a), 3 * s)
+    return S(hx, hy)

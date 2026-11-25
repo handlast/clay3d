@@ -1,0 +1,821 @@
+{
+  "sha": "7f0c3714dc81bea52644a5287c6350345009e579",
+  "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/trees/7f0c3714dc81bea52644a5287c6350345009e579",
+  "tree": [
+    {
+      "path": ".claude-plugin",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ee0f32cc8f7094ceebd5a4d1308f9dba8e5ea41e",
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/trees/ee0f32cc8f7094ceebd5a4d1308f9dba8e5ea41e"
+    },
+    {
+      "path": ".claude-plugin/marketplace.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "31db5bd8aca9b9d04a3d4a373ae44067c50f9032",
+      "size": 703,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/31db5bd8aca9b9d04a3d4a373ae44067c50f9032"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2298cdbcbfa1d28cf319cfd7330d3fb9ae1e1ca1",
+      "size": 33,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/2298cdbcbfa1d28cf319cfd7330d3fb9ae1e1ca1"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "045ebc81f97d0f5a6a54d11027b1b31e4cc3548d",
+      "size": 1218,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/045ebc81f97d0f5a6a54d11027b1b31e4cc3548d"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8a774cbfe3d88b81194ecb7641ca62bd25cedb9a",
+      "size": 4282,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/8a774cbfe3d88b81194ecb7641ca62bd25cedb9a"
+    },
+    {
+      "path": "evals",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "23d80dbc2899aa9948b86401e5fafe193bdd1050",
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/trees/23d80dbc2899aa9948b86401e5fafe193bdd1050"
+    },
+    {
+      "path": "evals/evals.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ed607586800ecb989f3e0ee2bd7d546c458784e9",
+      "size": 4252,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/ed607586800ecb989f3e0ee2bd7d546c458784e9"
+    },
+    {
+      "path": "media",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "03f52f8f4340c9fdd6d5cb2dc7c1b20e4a437d45",
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/trees/03f52f8f4340c9fdd6d5cb2dc7c1b20e4a437d45"
+    },
+    {
+      "path": "media/banner.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "83da13af24e6c9026c856b3928fb168dd90833d3",
+      "size": 401907,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/83da13af24e6c9026c856b3928fb168dd90833d3"
+    },
+    {
+      "path": "media/demo.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84574f1576069059ff8e42ca3596cf956da16078",
+      "size": 5388751,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/84574f1576069059ff8e42ca3596cf956da16078"
+    },
+    {
+      "path": "media/demo.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e98bc4d1c0cf0becffbef0f3b9b9263f879ef914",
+      "size": 3698067,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/e98bc4d1c0cf0becffbef0f3b9b9263f879ef914"
+    },
+    {
+      "path": "media/footage.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2e2692ad27d51074b0aca9a8e7bdeee5cd54cf7b",
+      "size": 16801,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/2e2692ad27d51074b0aca9a8e7bdeee5cd54cf7b"
+    },
+    {
+      "path": "media/how-it-works.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "853ba9f740fdc23377e0b600e8fa290bbb166233",
+      "size": 82596,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/853ba9f740fdc23377e0b600e8fa290bbb166233"
+    },
+    {
+      "path": "media/looks.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec12a3a3bbf3dfaba85ad1e246db05d16ea09be7",
+      "size": 19921,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/ec12a3a3bbf3dfaba85ad1e246db05d16ea09be7"
+    },
+    {
+      "path": "media/plan-check.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f1b62eb613ef5c21c8148b8c312a3abe4ad040b",
+      "size": 3522,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/1f1b62eb613ef5c21c8148b8c312a3abe4ad040b"
+    },
+    {
+      "path": "media/score-check.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c9b7cb60be5d7261268e9b1539177a590f931ca5",
+      "size": 911098,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/c9b7cb60be5d7261268e9b1539177a590f931ca5"
+    },
+    {
+      "path": "media/workflow.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd845733a96f3c3923ad0f5f2f20fb30740a59de",
+      "size": 10177,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/fd845733a96f3c3923ad0f5f2f20fb30740a59de"
+    },
+    {
+      "path": "skills",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f1b7fa0bb65c238f9a368e94b2419f6628d10aaa",
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/trees/f1b7fa0bb65c238f9a368e94b2419f6628d10aaa"
+    },
+    {
+      "path": "skills/motion-graphics",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c91e5953c1d629dab6b12550ad17548442be69d6",
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/trees/c91e5953c1d629dab6b12550ad17548442be69d6"
+    },
+    {
+      "path": "skills/motion-graphics/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "259a9d2b6278a04e65f6451215d2116b7bb84b0e",
+      "size": 35302,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/259a9d2b6278a04e65f6451215d2116b7bb84b0e"
+    },
+    {
+      "path": "skills/motion-graphics/assets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cfbe071d3c52a8a1c4a5ffc5e6ffba88bfe405c7",
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/trees/cfbe071d3c52a8a1c4a5ffc5e6ffba88bfe405c7"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "721c44a86f282426a05dd1da0ba0014f06fb235d",
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/trees/721c44a86f282426a05dd1da0ba0014f06fb235d"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea44eb9089363f809ef5618f9738a829c0302865",
+      "size": 3453,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/ea44eb9089363f809ef5618f9738a829c0302865"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/REVIEW.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c990e27c41458a314c5d30f26b7be9375c4e7c3",
+      "size": 749,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/8c990e27c41458a314c5d30f26b7be9375c4e7c3"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/assets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "64191f3dd1b3106ffc583516be828d8f899b25d5",
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/trees/64191f3dd1b3106ffc583516be828d8f899b25d5"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/assets/fonts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "852a5ae29749319ab1c9b3a24c5ddf0cda9cb7fd",
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/trees/852a5ae29749319ab1c9b3a24c5ddf0cda9cb7fd"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/assets/fonts/JetBrainsMono-Bold.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1305efce9d6f3902d0913d5808b0fb49061582e2",
+      "size": 112092,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/1305efce9d6f3902d0913d5808b0fb49061582e2"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/assets/fonts/JetBrainsMono-Regular.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "129e8825b1c3ef1fbaa96f387716d1f10bcfc94e",
+      "size": 112172,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/129e8825b1c3ef1fbaa96f387716d1f10bcfc94e"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/assets/fonts/Montserrat-Black.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f0d24ad27aed13cf9f3e238c3d89ee392eb49d64",
+      "size": 275192,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/f0d24ad27aed13cf9f3e238c3d89ee392eb49d64"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/assets/fonts/Montserrat-BlackItalic.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ce4afcc78fd9211f855cf1426c7a20805cbea1c",
+      "size": 279380,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/5ce4afcc78fd9211f855cf1426c7a20805cbea1c"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/assets/fonts/Montserrat-Bold.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a425b9a626ff7524a091e6a1f14ba200ffc4b16",
+      "size": 261588,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/9a425b9a626ff7524a091e6a1f14ba200ffc4b16"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/assets/fonts/OFL.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d2d0c32026e2f5ea4882a416b38a16a2f30b1ee1",
+      "size": 4613,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/d2d0c32026e2f5ea4882a416b38a16a2f30b1ee1"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/audio",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "eb509f7f8b03328643bf2428bc371e470ada352d",
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/trees/eb509f7f8b03328643bf2428bc371e470ada352d"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/audio/score.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "98d39074ac7dbccb69e6cb7c5683d71515b52935",
+      "size": 6930,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/98d39074ac7dbccb69e6cb7c5683d71515b52935"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/audio/synth",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2b060a419120e2cc8b1e5df9ce41e0fa802b1fee",
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/trees/2b060a419120e2cc8b1e5df9ce41e0fa802b1fee"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/audio/synth/core.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "12c439fe7c3442c8712be1044a3de5016dd5a8ff",
+      "size": 13130,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/12c439fe7c3442c8712be1044a3de5016dd5a8ff"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/audio/synth/drums.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5e8d60f39c2aec2f373169cdeb1f1de6547a01de",
+      "size": 12362,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/5e8d60f39c2aec2f373169cdeb1f1de6547a01de"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/audio/synth/fx.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "004e987baf382a2c3ad5597984b099a1e11b6aa2",
+      "size": 17927,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/004e987baf382a2c3ad5597984b099a1e11b6aa2"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/audio/synth/index.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "803982ade0e1e31eb895caeb8546ddf41304f1c2",
+      "size": 1115,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/803982ade0e1e31eb895caeb8546ddf41304f1c2"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/audio/synth/mix.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d5dc655a5d81002715c91e5fdff92ce673f6d29",
+      "size": 21780,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/2d5dc655a5d81002715c91e5fdff92ce673f6d29"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/audio/synth/sample.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1eb92eb40d5e8b2f1400d4036052cf8521dc0c92",
+      "size": 4943,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/1eb92eb40d5e8b2f1400d4036052cf8521dc0c92"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/audio/synth/selftest.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a0b22f9fe0e54ebaa4c6748075736d0c53ad169",
+      "size": 5469,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/9a0b22f9fe0e54ebaa4c6748075736d0c53ad169"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/audio/synth/theory.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4efa20409c363e0e149b7350b8cd2f8a99f0fd9",
+      "size": 7383,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/b4efa20409c363e0e149b7350b8cd2f8a99f0fd9"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/audio/synth/tonal.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0fcd7055093de3c3b4683d3afa07c40d080a2a5f",
+      "size": 26572,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/0fcd7055093de3c3b4683d3afa07c40d080a2a5f"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/brief.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea01f3707364d84540447bfe01ceb8b286dd9fe6",
+      "size": 567,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/ea01f3707364d84540447bfe01ceb8b286dd9fe6"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/css",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8a794b10ba15d1772b6ced32430ddfde50c622c2",
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/trees/8a794b10ba15d1772b6ced32430ddfde50c622c2"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/css/fonts.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a878e6882c5fbf33c846f99d094e272b3d4e90f",
+      "size": 1187,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/3a878e6882c5fbf33c846f99d094e272b3d4e90f"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/css/style.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "99bcc2865c8210b723a9a0020ea611533fc9a7be",
+      "size": 3879,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/99bcc2865c8210b723a9a0020ea611533fc9a7be"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7bd04fc6a78a6079c52d34a7c4430f9030156ef5",
+      "size": 300,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/7bd04fc6a78a6079c52d34a7c4430f9030156ef5"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/js",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "906906b645b11ce97f89d3c65e5e8b67dda23d95",
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/trees/906906b645b11ce97f89d3c65e5e8b67dda23d95"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/js/captions.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "845e9975f0a1cdfb7eaba4fb307b892322ff3cc6",
+      "size": 3822,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/845e9975f0a1cdfb7eaba4fb307b892322ff3cc6"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/js/copy.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4daae27d45e497063d551e77b95bb6818362aba8",
+      "size": 1198,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/4daae27d45e497063d551e77b95bb6818362aba8"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/js/engine.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "41e68fbf8ebd405acbc97ab1ee44a56677101737",
+      "size": 13389,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/41e68fbf8ebd405acbc97ab1ee44a56677101737"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/js/footage.data.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "11ca7ced483628051770a454491dc357eec4b5de",
+      "size": 129,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/11ca7ced483628051770a454491dc357eec4b5de"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/js/footage.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2406e61d083d34ca740f49fbe9f56ae7dee3440b",
+      "size": 3477,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/2406e61d083d34ca740f49fbe9f56ae7dee3440b"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/js/i18n.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f7d057990410518561ef6c94eeafb826cc4b59f",
+      "size": 386,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/2f7d057990410518561ef6c94eeafb826cc4b59f"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/js/kit.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fbfcf1e29c7b7a859c13e97e1c4d3d741d3fd3c7",
+      "size": 10145,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/fbfcf1e29c7b7a859c13e97e1c4d3d741d3fd3c7"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/js/lint.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab3d50c7f26193ff052217c6b2eda8f21cec4e6c",
+      "size": 1946,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/ab3d50c7f26193ff052217c6b2eda8f21cec4e6c"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/js/main.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e1ce72e6e0bd4d21eeef2aa51bb77301998039d",
+      "size": 11368,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/8e1ce72e6e0bd4d21eeef2aa51bb77301998039d"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/js/reel.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "65d8da3f48bca9752dce7d2fa90faead16670b18",
+      "size": 1971,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/65d8da3f48bca9752dce7d2fa90faead16670b18"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/js/scenes",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9f7c844d656c5b7ad10d8791a392cd17bf8521d3",
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/trees/9f7c844d656c5b7ad10d8791a392cd17bf8521d3"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/js/scenes/hook.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "511856fe3dfb81d799ba1aec6a901b995e4dcc2a",
+      "size": 4384,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/511856fe3dfb81d799ba1aec6a901b995e4dcc2a"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/js/scenes/lockup.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3725cdf95dd4a620ebb6d31c441bec5eb418dd8",
+      "size": 5605,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/c3725cdf95dd4a620ebb6d31c441bec5eb418dd8"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/js/scenes/post.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4650069dd7d8a63bd6bab63efe6611fd82361394",
+      "size": 229,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/4650069dd7d8a63bd6bab63efe6611fd82361394"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/js/scenes/proof.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6810cb55df5360175864b84d00202f20ef16a6ad",
+      "size": 4271,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/6810cb55df5360175864b84d00202f20ef16a6ad"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/js/screen.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da83bd352ab04a65e00c3de1a3e8747cdf8de468",
+      "size": 19377,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/da83bd352ab04a65e00c3de1a3e8747cdf8de468"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/js/timeline.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "880aee41848f8e777a015ff97069227377534065",
+      "size": 2545,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/880aee41848f8e777a015ff97069227377534065"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/tools",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d9a0704c49733decfd90551fe425b82e7dac7107",
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/trees/d9a0704c49733decfd90551fe425b82e7dac7107"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/tools/aac.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "49bf256f485fa156737184b5b457ae6abb53ded5",
+      "size": 3821,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/49bf256f485fa156737184b5b457ae6abb53ded5"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/tools/audio-check.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67317368e0755fd2738f48dd22cde9ec5cd025bc",
+      "size": 11935,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/67317368e0755fd2738f48dd22cde9ec5cd025bc"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/tools/capture.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "89033a457ed42787ef8423fd5bf34a17bbbbb20e",
+      "size": 27539,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/89033a457ed42787ef8423fd5bf34a17bbbbb20e"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/tools/cutdown.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "45f6f13af236bbba6c61cecfe99e0b5123808e66",
+      "size": 5089,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/45f6f13af236bbba6c61cecfe99e0b5123808e66"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/tools/demo-print.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18a6868e4e8daf4270f1e5f97d1e784865f953d3",
+      "size": 1076,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/18a6868e4e8daf4270f1e5f97d1e784865f953d3"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/tools/energy.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f1402cb3e13d94bc1a6a95ca5fa9755b19dfc917",
+      "size": 7148,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/f1402cb3e13d94bc1a6a95ca5fa9755b19dfc917"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/tools/export-timeline.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "57f3a8fd588f5007c0e5f0cb0c238eae67a603d6",
+      "size": 2056,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/57f3a8fd588f5007c0e5f0cb0c238eae67a603d6"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/tools/footage.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a9991f586e28187a11d41e4ea19a09045c9fe229",
+      "size": 17819,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/a9991f586e28187a11d41e4ea19a09045c9fe229"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/tools/kit.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "12606e7d19184f9f4a0209349fd2ea2e20b8e567",
+      "size": 4895,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/12606e7d19184f9f4a0209349fd2ea2e20b8e567"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/tools/plan-check.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "07da2c982ffc7f08370e3c210f6d5a14ff7eb66b",
+      "size": 11232,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/07da2c982ffc7f08370e3c210f6d5a14ff7eb66b"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/tools/pops.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fa377f4faaa991993e299dbe10ed8facef7bb6b6",
+      "size": 3360,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/fa377f4faaa991993e299dbe10ed8facef7bb6b6"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/tools/qa.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6a4822d9f7f2e5816721f3f653f13b021702750",
+      "size": 15971,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/a6a4822d9f7f2e5816721f3f653f13b021702750"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/tools/render.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e29b3fd4c858f21016381fadff9e8974580bc62b",
+      "size": 10882,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/e29b3fd4c858f21016381fadff9e8974580bc62b"
+    },
+    {
+      "path": "skills/motion-graphics/assets/template/tools/sound-print.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19b676bccc14be7cbb3d667bbe7d958e8a640af8",
+      "size": 33982,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/19b676bccc14be7cbb3d667bbe7d958e8a640af8"
+    },
+    {
+      "path": "skills/motion-graphics/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0d3ed1a521efad4075f8bab666bf256f45f87b79",
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/trees/0d3ed1a521efad4075f8bab666bf256f45f87b79"
+    },
+    {
+      "path": "skills/motion-graphics/references/direction.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "01d9bf00b7cb4b7c8a2a3c048e59dfeb9447e8dd",
+      "size": 14745,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/01d9bf00b7cb4b7c8a2a3c048e59dfeb9447e8dd"
+    },
+    {
+      "path": "skills/motion-graphics/references/footage.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c3b10c2fc154273fe24e8feb1960654424520f4",
+      "size": 16428,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/7c3b10c2fc154273fe24e8feb1960654424520f4"
+    },
+    {
+      "path": "skills/motion-graphics/references/genre-cards.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e409d1ff40c8ffcf6777d8d555a1ab85dbe6ccc9",
+      "size": 16606,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/e409d1ff40c8ffcf6777d8d555a1ab85dbe6ccc9"
+    },
+    {
+      "path": "skills/motion-graphics/references/look-cards.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "576e196fe8154892a642e1cb3c1e3054753991a1",
+      "size": 9765,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/576e196fe8154892a642e1cb3c1e3054753991a1"
+    },
+    {
+      "path": "skills/motion-graphics/references/pipeline.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8fa33dada657f4ceadbec10407780aacf6cf9c94",
+      "size": 22951,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/8fa33dada657f4ceadbec10407780aacf6cf9c94"
+    },
+    {
+      "path": "skills/motion-graphics/references/scene-cookbook.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1c51724bbcba68edb94985e89c00070f396803ec",
+      "size": 21998,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/1c51724bbcba68edb94985e89c00070f396803ec"
+    },
+    {
+      "path": "skills/motion-graphics/references/sound-design.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5382faebe46a3f18183dea17f669e3aa8bf8fe9e",
+      "size": 25749,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/5382faebe46a3f18183dea17f669e3aa8bf8fe9e"
+    },
+    {
+      "path": "skills/motion-graphics/references/story-and-motion.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ff5db9592914f4f9436ac40886bc43e5ce90566",
+      "size": 17636,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/7ff5db9592914f4f9436ac40886bc43e5ce90566"
+    },
+    {
+      "path": "skills/motion-graphics/references/synth-api.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4b402e717a381ebd485e4d0c623758efaba65de",
+      "size": 10757,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/a4b402e717a381ebd485e4d0c623758efaba65de"
+    },
+    {
+      "path": "skills/motion-graphics/references/wow-library.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "95d351120d775e0ed69fe5b088250a77fa0210d3",
+      "size": 6556,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/95d351120d775e0ed69fe5b088250a77fa0210d3"
+    },
+    {
+      "path": "skills/motion-graphics/scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0b7c32dceb625d776bcc442ed0e32a97383766c2",
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/trees/0b7c32dceb625d776bcc442ed0e32a97383766c2"
+    },
+    {
+      "path": "skills/motion-graphics/scripts/lib",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c180625474e1c9cf529ea09ade012bc54a6ead5d",
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/trees/c180625474e1c9cf529ea09ade012bc54a6ead5d"
+    },
+    {
+      "path": "skills/motion-graphics/scripts/lib/browser.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f331cc7b3da7725d93611e69d1b2d4cab10f884",
+      "size": 8677,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/0f331cc7b3da7725d93611e69d1b2d4cab10f884"
+    },
+    {
+      "path": "skills/motion-graphics/scripts/lib/net.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "505da5b9152fc1b9ca32508e6dd019df5a1dcca7",
+      "size": 18100,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/505da5b9152fc1b9ca32508e6dd019df5a1dcca7"
+    },
+    {
+      "path": "skills/motion-graphics/scripts/lib/page.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "13e5dbe960b45a789779db982de3aa20abb0d05c",
+      "size": 2832,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/13e5dbe960b45a789779db982de3aa20abb0d05c"
+    },
+    {
+      "path": "skills/motion-graphics/scripts/new-project.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f41751eaea25554e2d546f47e1ca2a226dacde2f",
+      "size": 5757,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/f41751eaea25554e2d546f47e1ca2a226dacde2f"
+    },
+    {
+      "path": "skills/motion-graphics/scripts/palette.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9c44b3d0f8e3c801b7478a9b8d720564e575c05",
+      "size": 6428,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/d9c44b3d0f8e3c801b7478a9b8d720564e575c05"
+    },
+    {
+      "path": "skills/motion-graphics/scripts/ref-sheet.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c476d60943ede03204662ba5142954b3affb7754",
+      "size": 23685,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/c476d60943ede03204662ba5142954b3affb7754"
+    },
+    {
+      "path": "skills/motion-graphics/scripts/site-kit.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c412af92be6b359f9fbbee66be387ac43a2a2c0",
+      "size": 57297,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/7c412af92be6b359f9fbbee66be387ac43a2a2c0"
+    },
+    {
+      "path": "skills/motion-graphics/scripts/trace-logo.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f18c2faaaf1f2e27694d1baa2efffade000c30c",
+      "size": 10760,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/9f18c2faaaf1f2e27694d1baa2efffade000c30c"
+    },
+    {
+      "path": "skills/motion-graphics/scripts/ui-shot.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b7567b485d766ee97b03d9c9f221c23198df82e",
+      "size": 10914,
+      "url": "https://api.github.com/repos/Mort1d/motion-graphics-skills/git/blobs/9b7567b485d766ee97b03d9c9f221c23198df82e"
+    }
+  ],
+  "truncated": false
+}

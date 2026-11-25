@@ -1,0 +1,147 @@
+{
+  "sha": "a0048d9e265499038f34a9aa58ff16d306b5034c",
+  "url": "https://api.github.com/repos/Yusuke710/manim-skill/git/trees/a0048d9e265499038f34a9aa58ff16d306b5034c",
+  "tree": [
+    {
+      "path": ".claude-plugin",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "02edb6e41054c3278a098ad5f99ebbe8972c5828",
+      "url": "https://api.github.com/repos/Yusuke710/manim-skill/git/trees/02edb6e41054c3278a098ad5f99ebbe8972c5828"
+    },
+    {
+      "path": ".claude-plugin/marketplace.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15de439aef55becc5eacc7d65f24d2687ef493b7",
+      "size": 980,
+      "url": "https://api.github.com/repos/Yusuke710/manim-skill/git/blobs/15de439aef55becc5eacc7d65f24d2687ef493b7"
+    },
+    {
+      "path": ".claude-plugin/plugin.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d5d1327032d8900ce5fb392ff43eed2e33c3ed7d",
+      "size": 517,
+      "url": "https://api.github.com/repos/Yusuke710/manim-skill/git/blobs/d5d1327032d8900ce5fb392ff43eed2e33c3ed7d"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7375a9b40e560e69101ab9088d09e07649c8d397",
+      "size": 31,
+      "url": "https://api.github.com/repos/Yusuke710/manim-skill/git/blobs/7375a9b40e560e69101ab9088d09e07649c8d397"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "662662af5e8839dc9a36d1a22aeedd8b626944e2",
+      "size": 1073,
+      "url": "https://api.github.com/repos/Yusuke710/manim-skill/git/blobs/662662af5e8839dc9a36d1a22aeedd8b626944e2"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "24c21cba7853b6f66fa1f416d3786adfdbea3b3b",
+      "size": 3163,
+      "url": "https://api.github.com/repos/Yusuke710/manim-skill/git/blobs/24c21cba7853b6f66fa1f416d3786adfdbea3b3b"
+    },
+    {
+      "path": "manim_skill.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f236ce235d9497076a381cf8425414fb8151815",
+      "size": 516983,
+      "url": "https://api.github.com/repos/Yusuke710/manim-skill/git/blobs/1f236ce235d9497076a381cf8425414fb8151815"
+    },
+    {
+      "path": "pyproject.toml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b0b335a4a244a781a65298018ca4c006720985f0",
+      "size": 266,
+      "url": "https://api.github.com/repos/Yusuke710/manim-skill/git/blobs/b0b335a4a244a781a65298018ca4c006720985f0"
+    },
+    {
+      "path": "skills",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "24f88759b14e4ebd2f3384a6d871a1c86d284ac4",
+      "url": "https://api.github.com/repos/Yusuke710/manim-skill/git/trees/24f88759b14e4ebd2f3384a6d871a1c86d284ac4"
+    },
+    {
+      "path": "skills/manim-skill",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0b3febd6f2e786933b90e47e1c8164169ec4d303",
+      "url": "https://api.github.com/repos/Yusuke710/manim-skill/git/trees/0b3febd6f2e786933b90e47e1c8164169ec4d303"
+    },
+    {
+      "path": "skills/manim-skill/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a2330b03f0f2f873abefeaca886d0e0b6b1bc8e8",
+      "size": 7394,
+      "url": "https://api.github.com/repos/Yusuke710/manim-skill/git/blobs/a2330b03f0f2f873abefeaca886d0e0b6b1bc8e8"
+    },
+    {
+      "path": "skills/manim-skill/tools",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1d66dd09418ee5d9191c708cbcaf1c425c1ecd7a",
+      "url": "https://api.github.com/repos/Yusuke710/manim-skill/git/trees/1d66dd09418ee5d9191c708cbcaf1c425c1ecd7a"
+    },
+    {
+      "path": "skills/manim-skill/tools/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea760e45b24081d3e9a6fb99e5445b77de87940c",
+      "size": 2438,
+      "url": "https://api.github.com/repos/Yusuke710/manim-skill/git/blobs/ea760e45b24081d3e9a6fb99e5445b77de87940c"
+    },
+    {
+      "path": "skills/manim-skill/tools/lint-subtitles.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c0b54b9120bdc8d9a6a4f68a60544c51ffe12133",
+      "size": 13606,
+      "url": "https://api.github.com/repos/Yusuke710/manim-skill/git/blobs/c0b54b9120bdc8d9a6a4f68a60544c51ffe12133"
+    },
+    {
+      "path": "skills/manim-skill/tools/tts-generate.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ce30e0d15efa2c1ca9e2bb957a6913330c843b5",
+      "size": 8606,
+      "url": "https://api.github.com/repos/Yusuke710/manim-skill/git/blobs/3ce30e0d15efa2c1ca9e2bb957a6913330c843b5"
+    },
+    {
+      "path": "skills/manim-skill/tools/ui.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b2551ff1a60426cde89efdce7c7a7f42d92291f7",
+      "size": 48501,
+      "url": "https://api.github.com/repos/Yusuke710/manim-skill/git/blobs/b2551ff1a60426cde89efdce7c7a7f42d92291f7"
+    },
+    {
+      "path": "skills/manim-skill/tools/video_viewer.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "182180027cbc06d2562705b3a837ea0ab55ed55c",
+      "size": 655876,
+      "url": "https://api.github.com/repos/Yusuke710/manim-skill/git/blobs/182180027cbc06d2562705b3a837ea0ab55ed55c"
+    },
+    {
+      "path": "skills/manim-skill/tools/video_viewer.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7bfac7753df15e9d8bb9458799b1b8f7b7d5b4fa",
+      "size": 7434,
+      "url": "https://api.github.com/repos/Yusuke710/manim-skill/git/blobs/7bfac7753df15e9d8bb9458799b1b8f7b7d5b4fa"
+    }
+  ],
+  "truncated": false
+}

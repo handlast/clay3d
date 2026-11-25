@@ -1,0 +1,1679 @@
+{
+  "sha": "83e884a2766e50420bb76545fad0712592af9c9b",
+  "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/83e884a2766e50420bb76545fad0712592af9c9b",
+  "tree": [
+    {
+      "path": ".github",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b97a0828a9270ba715e95053762df2324ccbead9",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/b97a0828a9270ba715e95053762df2324ccbead9"
+    },
+    {
+      "path": ".github/workflows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2c2006a326dab8dad24f6d77bf58fb7e33b1e741",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/2c2006a326dab8dad24f6d77bf58fb7e33b1e741"
+    },
+    {
+      "path": ".github/workflows/ci.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63b28263f90908fc734d11ba8646f991cd55308c",
+      "size": 1336,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/63b28263f90908fc734d11ba8646f991cd55308c"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b549ad3f43f45b6be80cb2f68baedca273ac8967",
+      "size": 585,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/b549ad3f43f45b6be80cb2f68baedca273ac8967"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ce824267ff8f644cb89e6a034a040a05d7031fcc",
+      "size": 3631,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/ce824267ff8f644cb89e6a034a040a05d7031fcc"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af16f024e994c295652267ebce07de0f1be532cc",
+      "size": 4393,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/af16f024e994c295652267ebce07de0f1be532cc"
+    },
+    {
+      "path": "examples",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "620c137a085b41da493bba2e2b3de01c0e73484d",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/620c137a085b41da493bba2e2b3de01c0e73484d"
+    },
+    {
+      "path": "examples/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1e50e0728f91b2ad3da6bcdf2e4e23c6170385db",
+      "size": 996,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/1e50e0728f91b2ad3da6bcdf2e4e23c6170385db"
+    },
+    {
+      "path": "examples/halving.storyboard.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d81229a561052ee698ce0f47005058ddc259fdc5",
+      "size": 3777,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/d81229a561052ee698ce0f47005058ddc259fdc5"
+    },
+    {
+      "path": "examples/odd-squares.storyboard.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "48542435c637165a6a62a36b0326f6fcf97397f1",
+      "size": 5155,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/48542435c637165a6a62a36b0326f6fcf97397f1"
+    },
+    {
+      "path": "install.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "ae2f8709e977bfd037a53ef87fa270ac93fb7e8b",
+      "size": 2287,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/ae2f8709e977bfd037a53ef87fa270ac93fb7e8b"
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4c805d427939622c0abb3da4aa17d2125ed8b295",
+      "size": 331,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/4c805d427939622c0abb3da4aa17d2125ed8b295"
+    },
+    {
+      "path": "pyproject.toml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f439a7eca84f757a0c43635eae1cae6a9b66b4b3",
+      "size": 258,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/f439a7eca84f757a0c43635eae1cae6a9b66b4b3"
+    },
+    {
+      "path": "skills",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5bcd8486f44e7ef0ad9d1dd4d8c0806561cfd8ec",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/5bcd8486f44e7ef0ad9d1dd4d8c0806561cfd8ec"
+    },
+    {
+      "path": "skills/educational-video",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f66420852d5a02af68b6f437c52d07b4c8e2e5e6",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/f66420852d5a02af68b6f437c52d07b4c8e2e5e6"
+    },
+    {
+      "path": "skills/educational-video/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bec3dd8ab0fb1515259d0b39999adab4265cc64e",
+      "size": 5332,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/bec3dd8ab0fb1515259d0b39999adab4265cc64e"
+    },
+    {
+      "path": "skills/educational-video/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d5274c4350f5e4bd29e3ca87e9e9d263281d236f",
+      "size": 12234,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/d5274c4350f5e4bd29e3ca87e9e9d263281d236f"
+    },
+    {
+      "path": "skills/educational-video/engines",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "46d9d9dba0883c76c152375690b3e95b74efc16c",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/46d9d9dba0883c76c152375690b3e95b74efc16c"
+    },
+    {
+      "path": "skills/educational-video/engines/motion",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "38109e210dcd67bd87e4a4d1b8d19b9fb4c24673",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/38109e210dcd67bd87e4a4d1b8d19b9fb4c24673"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/core.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "def01e90e11fdbdd377b6912e1bf508db73bd4ee",
+      "size": 14885,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/def01e90e11fdbdd377b6912e1bf508db73bd4ee"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/edu",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "504e34d1d3d4167303fd2f1a7f447a3389f7c861",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/504e34d1d3d4167303fd2f1a7f447a3389f7c861"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/edu/captions.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f247d8c075596c235f1d955e9f7a95c83fa38276",
+      "size": 5918,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/f247d8c075596c235f1d955e9f7a95c83fa38276"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/edu/code.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "33d18d2375eb65ae2204c4a6d3f6b5c1f6d3ccb1",
+      "size": 6689,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/33d18d2375eb65ae2204c4a6d3f6b5c1f6d3ccb1"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/edu/diagram.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "96f0d12fafcf919ecfd1377239fda82ae5fb0737",
+      "size": 13868,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/96f0d12fafcf919ecfd1377239fda82ae5fb0737"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/edu/edu.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bbb858e934efaf304ab773c65fde457a9209f6e8",
+      "size": 1770,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/bbb858e934efaf304ab773c65fde457a9209f6e8"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/edu/edu.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8a9ac0d7db8754a3ef4021a880a19842286443f8",
+      "size": 2935,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/8a9ac0d7db8754a3ef4021a880a19842286443f8"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/edu/equation.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5edf9465e56c4b7c7882fe59fc2f75cb2551cd54",
+      "size": 7349,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/5edf9465e56c4b7c7882fe59fc2f75cb2551cd54"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/edu/lib",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "90712cf47bbfee292ec319b9b53cb9bf2d6d063c",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/90712cf47bbfee292ec319b9b53cb9bf2d6d063c"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/edu/lib/captionplan.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "edaaa322e2488aad314e6754b7891d9174cdc23e",
+      "size": 4547,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/edaaa322e2488aad314e6754b7891d9174cdc23e"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/edu/lib/color.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b1416256ab943c794d867957bd0b5941ca7193d",
+      "size": 1472,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/5b1416256ab943c794d867957bd0b5941ca7193d"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/edu/lib/layout.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "df9e0bd241bf18493952ec1a8ba49cfcaf8291ad",
+      "size": 3121,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/df9e0bd241bf18493952ec1a8ba49cfcaf8291ad"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/edu/lib/plotmath.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1de24e76e5937ec6178303388e61619a4c6a7a59",
+      "size": 3710,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/1de24e76e5937ec6178303388e61619a4c6a7a59"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/edu/lib/termplan.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "68e167444b4eb5309b7abf2c05988c015926fef2",
+      "size": 4094,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/68e167444b4eb5309b7abf2c05988c015926fef2"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/edu/lib/tokens.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "82858c77a56dd1f7dc67efae604429570207699f",
+      "size": 6134,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/82858c77a56dd1f7dc67efae604429570207699f"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/edu/lib/zones.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bfad7ac91f5fd42f152ba751f8b2a63eb377833d",
+      "size": 2794,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/bfad7ac91f5fd42f152ba751f8b2a63eb377833d"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/edu/plot.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d1986d845cfcc9055693a61066c07698449afec2",
+      "size": 11005,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/d1986d845cfcc9055693a61066c07698449afec2"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "31b518a22729151829760570b829dd6373af4e70",
+      "size": 3190,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/31b518a22729151829760570b829dd6373af4e70"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/lib",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2f580ddbd9443ed68a62489b4e3d5d91a9b496ad",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/2f580ddbd9443ed68a62489b4e3d5d91a9b496ad"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/lib/motion.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60db129d00a29af53114bd8749c2decec6b8a6d4",
+      "size": 5561,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/60db129d00a29af53114bd8749c2decec6b8a6d4"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/lib/motion.test.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bda30bb85e331461e6c02cfe15c8cfd5ffb90581",
+      "size": 1987,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/bda30bb85e331461e6c02cfe15c8cfd5ffb90581"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/lib/time.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56e39947ed6f810288d097a0e1aa3d2448e8ba93",
+      "size": 4106,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/56e39947ed6f810288d097a0e1aa3d2448e8ba93"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a3c15a7a6312b4c27cc889aafeed79bea64ecf55",
+      "size": 23,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/a3c15a7a6312b4c27cc889aafeed79bea64ecf55"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/starter",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "755ddd88ad0eebf3cf57730e5449dc6cfe61f2d7",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/755ddd88ad0eebf3cf57730e5449dc6cfe61f2d7"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/starter/lesson.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f2821bea9a7fff040aa0aa3eccbbeba64bdbaf32",
+      "size": 8625,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/f2821bea9a7fff040aa0aa3eccbbeba64bdbaf32"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/type.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52df559721308440b85fddf0be74479503e7fbba",
+      "size": 2663,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/52df559721308440b85fddf0be74479503e7fbba"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1953c719842c77058d69ee2c84e71d39d63c2391",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/1953c719842c77058d69ee2c84e71d39d63c2391"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor/katex",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2d0a2a4a29b0a681f2fe6432d53dc5022114635e",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/2d0a2a4a29b0a681f2fe6432d53dc5022114635e"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor/katex/LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "37c6433e3bedca7a97e08fe35d98582a5f7bac0c",
+      "size": 1107,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/37c6433e3bedca7a97e08fe35d98582a5f7bac0c"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor/katex/README.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ba3f347e936b2c1f5eb5c7356168cddac694e74",
+      "size": 183,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/8ba3f347e936b2c1f5eb5c7356168cddac694e74"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor/katex/fonts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5bedd47ec3f381ba985f7636e0df1d52fd62fd7f",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/5bedd47ec3f381ba985f7636e0df1d52fd62fd7f"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor/katex/fonts/KaTeX_AMS-Regular.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0acaaff03d4bb7606de02a827aeee338e5a86910",
+      "size": 28076,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/0acaaff03d4bb7606de02a827aeee338e5a86910"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor/katex/fonts/KaTeX_Caligraphic-Bold.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f390922eceffe1f6dfb81a3dc086a92d98171b02",
+      "size": 6912,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/f390922eceffe1f6dfb81a3dc086a92d98171b02"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor/katex/fonts/KaTeX_Caligraphic-Regular.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "75344a1f98e37e2c631e178065854c3a81fb842f",
+      "size": 6908,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/75344a1f98e37e2c631e178065854c3a81fb842f"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor/katex/fonts/KaTeX_Fraktur-Bold.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "395f28beac23c7b0f7f3a1e714bd8dac253dd3bc",
+      "size": 11348,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/395f28beac23c7b0f7f3a1e714bd8dac253dd3bc"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor/katex/fonts/KaTeX_Fraktur-Regular.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "735f6948d63c8cc7f8233735bb9c8d843c83d804",
+      "size": 11316,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/735f6948d63c8cc7f8233735bb9c8d843c83d804"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor/katex/fonts/KaTeX_Main-Bold.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab2ad21da6fbe6c171bb869240954d0ead8f68fd",
+      "size": 25324,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/ab2ad21da6fbe6c171bb869240954d0ead8f68fd"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor/katex/fonts/KaTeX_Main-BoldItalic.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5931794de4a2a485fa70099bf2659b145976d043",
+      "size": 16780,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/5931794de4a2a485fa70099bf2659b145976d043"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor/katex/fonts/KaTeX_Main-Italic.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b50920e138807f385d0b0359f4f0f09891f18406",
+      "size": 16988,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/b50920e138807f385d0b0359f4f0f09891f18406"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor/katex/fonts/KaTeX_Main-Regular.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb24a7ba282b03d830fa6c63ee897d92a5188736",
+      "size": 26272,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/eb24a7ba282b03d830fa6c63ee897d92a5188736"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor/katex/fonts/KaTeX_Math-BoldItalic.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29657023adc09956249f6295746c8ce4469b50d3",
+      "size": 16400,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/29657023adc09956249f6295746c8ce4469b50d3"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor/katex/fonts/KaTeX_Math-Italic.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "215c143fd7805a5c2b222bd7892a1a2b09610020",
+      "size": 16440,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/215c143fd7805a5c2b222bd7892a1a2b09610020"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor/katex/fonts/KaTeX_SansSerif-Bold.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cfaa3bda59246b49e94298478d6de3b3208066c8",
+      "size": 12216,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/cfaa3bda59246b49e94298478d6de3b3208066c8"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor/katex/fonts/KaTeX_SansSerif-Italic.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "349c06dc609f896392fd5bc8b364d3bc3efc9330",
+      "size": 12028,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/349c06dc609f896392fd5bc8b364d3bc3efc9330"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor/katex/fonts/KaTeX_SansSerif-Regular.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a90eea85f6f7bded69ff5d40114447a6d8b48cfe",
+      "size": 10344,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/a90eea85f6f7bded69ff5d40114447a6d8b48cfe"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor/katex/fonts/KaTeX_Script-Regular.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b3048fc115681ee6c1bc86b0aa158cfbbf59daa3",
+      "size": 9644,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/b3048fc115681ee6c1bc86b0aa158cfbbf59daa3"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor/katex/fonts/KaTeX_Size1-Regular.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c5a8462fbfe2c39a7c1857b9e296e62500a8a8a5",
+      "size": 5468,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/c5a8462fbfe2c39a7c1857b9e296e62500a8a8a5"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor/katex/fonts/KaTeX_Size2-Regular.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1bccfe2403a4ed770c1697ae7c15b9e1cd9bc4e",
+      "size": 5208,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/e1bccfe2403a4ed770c1697ae7c15b9e1cd9bc4e"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor/katex/fonts/KaTeX_Size3-Regular.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "249a28662218a7a17ad8bd1fe072169ecb666a49",
+      "size": 3624,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/249a28662218a7a17ad8bd1fe072169ecb666a49"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor/katex/fonts/KaTeX_Size4-Regular.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "680c13085076a2f6c5a7e695935ec3f21cddb65f",
+      "size": 4928,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/680c13085076a2f6c5a7e695935ec3f21cddb65f"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor/katex/fonts/KaTeX_Typewriter-Regular.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "771f1af705f5cef5f578b3a1e7d8eff66f9b76b0",
+      "size": 13568,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/771f1af705f5cef5f578b3a1e7d8eff66f9b76b0"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor/katex/katex.min.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2ec1fa4aec8ad9809bf87191dea2e7ca03c6043b",
+      "size": 22659,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/2ec1fa4aec8ad9809bf87191dea2e7ca03c6043b"
+    },
+    {
+      "path": "skills/educational-video/engines/motion/vendor/katex/katex.min.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4a6810d6ff1b277c5bdf28138b21c7d593c33fa4",
+      "size": 272868,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/4a6810d6ff1b277c5bdf28138b21c7d593c33fa4"
+    },
+    {
+      "path": "skills/educational-video/presets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "81faec19b1d367e28fcfc77d69eac4d3c6e1c4eb",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/81faec19b1d367e28fcfc77d69eac4d3c6e1c4eb"
+    },
+    {
+      "path": "skills/educational-video/presets/blank",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "83543cfa8b2a188a5ffdaba298333b3f2f1ea9b1",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/83543cfa8b2a188a5ffdaba298333b3f2f1ea9b1"
+    },
+    {
+      "path": "skills/educational-video/presets/blank/preset.jsonc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "362ab081e984e7eebef1eb9ea051f842b070c16d",
+      "size": 3978,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/362ab081e984e7eebef1eb9ea051f842b070c16d"
+    },
+    {
+      "path": "skills/educational-video/presets/blueprint",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8231c60f53f34163237c980c665dafc08b87e063",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/8231c60f53f34163237c980c665dafc08b87e063"
+    },
+    {
+      "path": "skills/educational-video/presets/blueprint/fonts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "eb73e530a363f51735825390a9eb92a9735a81ca",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/eb73e530a363f51735825390a9eb92a9735a81ca"
+    },
+    {
+      "path": "skills/educational-video/presets/blueprint/fonts/OFL-IBMPlexMono.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "83eac8278b2e427a72ce3622a53cdb7a56e55b05",
+      "size": 5299,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/83eac8278b2e427a72ce3622a53cdb7a56e55b05"
+    },
+    {
+      "path": "skills/educational-video/presets/blueprint/fonts/OFL-SpaceGrotesk.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d5666d70873cb905b4421d2c0d2e60747aae8573",
+      "size": 4401,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/d5666d70873cb905b4421d2c0d2e60747aae8573"
+    },
+    {
+      "path": "skills/educational-video/presets/blueprint/fonts/ibm-plex-mono-regular.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3cfb5f032bc6298767d1cfc58fbb41450cd13c85",
+      "size": 41008,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/3cfb5f032bc6298767d1cfc58fbb41450cd13c85"
+    },
+    {
+      "path": "skills/educational-video/presets/blueprint/fonts/ibm-plex-mono-regular.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0804aaff92260b5359330f63e05b9ac25ccabeee",
+      "size": 14708,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/0804aaff92260b5359330f63e05b9ac25ccabeee"
+    },
+    {
+      "path": "skills/educational-video/presets/blueprint/fonts/space-grotesk-semibold.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "55a3a77b9234f1e1c32ad45d9c3b55439e4587a0",
+      "size": 32000,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/55a3a77b9234f1e1c32ad45d9c3b55439e4587a0"
+    },
+    {
+      "path": "skills/educational-video/presets/blueprint/fonts/space-grotesk-semibold.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a1db41a0ac0cbe2edd0d0a0d07d90fb8fa366d14",
+      "size": 13284,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/a1db41a0ac0cbe2edd0d0a0d07d90fb8fa366d14"
+    },
+    {
+      "path": "skills/educational-video/presets/blueprint/preset.jsonc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b34f745bef3888492b60dae52e77c1d2241df5d0",
+      "size": 1376,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/b34f745bef3888492b60dae52e77c1d2241df5d0"
+    },
+    {
+      "path": "skills/educational-video/presets/chalkboard",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6ab3a764e112ff37b64201bffb6900e48cb64696",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/6ab3a764e112ff37b64201bffb6900e48cb64696"
+    },
+    {
+      "path": "skills/educational-video/presets/chalkboard/fonts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "46aaf1457bebe60d7a48d7283c434745449835cb",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/46aaf1457bebe60d7a48d7283c434745449835cb"
+    },
+    {
+      "path": "skills/educational-video/presets/chalkboard/fonts/OFL-Caveat.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5303054dc8fe29cde1b9b39d23b8a76b48807faf",
+      "size": 4384,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/5303054dc8fe29cde1b9b39d23b8a76b48807faf"
+    },
+    {
+      "path": "skills/educational-video/presets/chalkboard/fonts/OFL-Nunito.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae9dd5a09316226fe60a1874bf41a9760435464a",
+      "size": 4491,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/ae9dd5a09316226fe60a1874bf41a9760435464a"
+    },
+    {
+      "path": "skills/educational-video/presets/chalkboard/fonts/caveat-bold.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ab1d348e776068161ee50e9a12dcd4bc58da31b",
+      "size": 112872,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/6ab1d348e776068161ee50e9a12dcd4bc58da31b"
+    },
+    {
+      "path": "skills/educational-video/presets/chalkboard/fonts/caveat-bold.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e8b6ac7118ebb5976372916a7ab1bf1eb1a464d2",
+      "size": 51020,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/e8b6ac7118ebb5976372916a7ab1bf1eb1a464d2"
+    },
+    {
+      "path": "skills/educational-video/presets/chalkboard/fonts/nunito-medium.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "31060fa8b15abea55814dd8ffb324fe2ccbf9687",
+      "size": 39088,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/31060fa8b15abea55814dd8ffb324fe2ccbf9687"
+    },
+    {
+      "path": "skills/educational-video/presets/chalkboard/fonts/nunito-medium.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a8b44941b13f536dcc276ca24cad5988efef937",
+      "size": 16428,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/7a8b44941b13f536dcc276ca24cad5988efef937"
+    },
+    {
+      "path": "skills/educational-video/presets/chalkboard/preset.jsonc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4d015ac9c523026d02d0d3c02fa2593a3d834f4",
+      "size": 1468,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/c4d015ac9c523026d02d0d3c02fa2593a3d834f4"
+    },
+    {
+      "path": "skills/educational-video/presets/paper",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bf2a2e5d848f124caad73c2c9859c553ef66f340",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/bf2a2e5d848f124caad73c2c9859c553ef66f340"
+    },
+    {
+      "path": "skills/educational-video/presets/paper/fonts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c7bbd6d12c127d78ae74fd1599af120f68f6f09e",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/c7bbd6d12c127d78ae74fd1599af120f68f6f09e"
+    },
+    {
+      "path": "skills/educational-video/presets/paper/fonts/OFL-Inter.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "40589daa9de8bc96606292ea0be712ff0f0626eb",
+      "size": 4477,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/40589daa9de8bc96606292ea0be712ff0f0626eb"
+    },
+    {
+      "path": "skills/educational-video/presets/paper/fonts/OFL-Newsreader.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "03ad13c32004b5c7c097e404810b0fdf7410d283",
+      "size": 4520,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/03ad13c32004b5c7c097e404810b0fdf7410d283"
+    },
+    {
+      "path": "skills/educational-video/presets/paper/fonts/inter-regular.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f8fcc7af5bdde1f0d030342534cc04f22eaf390f",
+      "size": 66552,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/f8fcc7af5bdde1f0d030342534cc04f22eaf390f"
+    },
+    {
+      "path": "skills/educational-video/presets/paper/fonts/inter-regular.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f15b025d666269fb07daf0263e54231481e4289c",
+      "size": 23664,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/f15b025d666269fb07daf0263e54231481e4289c"
+    },
+    {
+      "path": "skills/educational-video/presets/paper/fonts/newsreader-semibold.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c6c5fb03fe5e16414e57a2a1db654046ea51577",
+      "size": 50084,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/8c6c5fb03fe5e16414e57a2a1db654046ea51577"
+    },
+    {
+      "path": "skills/educational-video/presets/paper/fonts/newsreader-semibold.woff2",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d72ee9cde90047d5eec05cef1254a530e3996266",
+      "size": 23876,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/d72ee9cde90047d5eec05cef1254a530e3996266"
+    },
+    {
+      "path": "skills/educational-video/presets/paper/preset.jsonc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fa5d4ed002cee0e5637703b68a0c13b2b084caed",
+      "size": 1329,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/fa5d4ed002cee0e5637703b68a0c13b2b084caed"
+    },
+    {
+      "path": "skills/educational-video/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b500f1553118ebc596aba78b5f484afd2a0223b0",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/b500f1553118ebc596aba78b5f484afd2a0223b0"
+    },
+    {
+      "path": "skills/educational-video/references/audio.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c42b2506994060bbeed84a227dea7af1a556bb48",
+      "size": 9774,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/c42b2506994060bbeed84a227dea7af1a556bb48"
+    },
+    {
+      "path": "skills/educational-video/references/component-library.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb939282bb07a3e213f9dc88f9876ab551882e43",
+      "size": 8694,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/fb939282bb07a3e213f9dc88f9876ab551882e43"
+    },
+    {
+      "path": "skills/educational-video/references/critique.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4902933be0882e6253799010b8fdf125b90ad63c",
+      "size": 7606,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/4902933be0882e6253799010b8fdf125b90ad63c"
+    },
+    {
+      "path": "skills/educational-video/references/engine-selection.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85ba739e4b22a10bc7ca10813f9e6f458ddb95aa",
+      "size": 4059,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/85ba739e4b22a10bc7ca10813f9e6f458ddb95aa"
+    },
+    {
+      "path": "skills/educational-video/references/formats.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "81527de094e204ed75b1fe02e1b4983ce5cf0b85",
+      "size": 4881,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/81527de094e204ed75b1fe02e1b4983ce5cf0b85"
+    },
+    {
+      "path": "skills/educational-video/references/manim-patterns.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "53d4d97b645150430b66072311a76a826d941f76",
+      "size": 8662,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/53d4d97b645150430b66072311a76a826d941f76"
+    },
+    {
+      "path": "skills/educational-video/references/motion-components.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d7b461b5c0891c3bafcb89e4b39a20129d91af1a",
+      "size": 9644,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/d7b461b5c0891c3bafcb89e4b39a20129d91af1a"
+    },
+    {
+      "path": "skills/educational-video/references/motion-engine.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3eff7a534ecb205882a37896cef48803ff763177",
+      "size": 14621,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/3eff7a534ecb205882a37896cef48803ff763177"
+    },
+    {
+      "path": "skills/educational-video/references/motion-rules.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5e4cfafe48bca059f2b1e33f0976231816223ad2",
+      "size": 5565,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/5e4cfafe48bca059f2b1e33f0976231816223ad2"
+    },
+    {
+      "path": "skills/educational-video/references/presets.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d4f1bc371c99a4e5d0d7950929a73a59c14215e",
+      "size": 5697,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/0d4f1bc371c99a4e5d0d7950929a73a59c14215e"
+    },
+    {
+      "path": "skills/educational-video/references/remotion-patterns.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eef4d744abd4cf69da9bb792db884506326dff98",
+      "size": 8306,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/eef4d744abd4cf69da9bb792db884506326dff98"
+    },
+    {
+      "path": "skills/educational-video/references/shorts.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05ffc32747a36ccddf0ee096420fdbda484a1bd5",
+      "size": 4561,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/05ffc32747a36ccddf0ee096420fdbda484a1bd5"
+    },
+    {
+      "path": "skills/educational-video/references/storyboard-schema.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c1d3f5a320554e195e3f2e554a1894e51ce93b7",
+      "size": 6834,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/8c1d3f5a320554e195e3f2e554a1894e51ce93b7"
+    },
+    {
+      "path": "skills/educational-video/references/troubleshooting.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "44130e1cf95d18f061e4e6a5ec23b8594e2dbeea",
+      "size": 5437,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/44130e1cf95d18f061e4e6a5ec23b8594e2dbeea"
+    },
+    {
+      "path": "skills/educational-video/references/tts-setup.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3f5e3169dc40158568e2773305bb9dfca1e08aaf",
+      "size": 3465,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/3f5e3169dc40158568e2773305bb9dfca1e08aaf"
+    },
+    {
+      "path": "skills/educational-video/references/verify-loop.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67b8e16d5628798f5d945636334c0acd9a71d33c",
+      "size": 6510,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/67b8e16d5628798f5d945636334c0acd9a71d33c"
+    },
+    {
+      "path": "skills/educational-video/scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cbad043f9357395f89c0fcd0f04477a363033151",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/cbad043f9357395f89c0fcd0f04477a363033151"
+    },
+    {
+      "path": "skills/educational-video/scripts/align_subtitles.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "bbb0a3af99c3ba11f9ae19bc506573ac971f5461",
+      "size": 4593,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/bbb0a3af99c3ba11f9ae19bc506573ac971f5461"
+    },
+    {
+      "path": "skills/educational-video/scripts/apply_preset.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "20d39a6c6f352616497e8f8ba1b572741535b684",
+      "size": 14315,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/20d39a6c6f352616497e8f8ba1b572741535b684"
+    },
+    {
+      "path": "skills/educational-video/scripts/bootstrap.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "46d6521518b8695c8d315040e3dd1fb50c31020c",
+      "size": 8585,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/46d6521518b8695c8d315040e3dd1fb50c31020c"
+    },
+    {
+      "path": "skills/educational-video/scripts/detect_tts.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0b0437fd780c36e4a7a693149a47db93d0eb002c",
+      "size": 1657,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/0b0437fd780c36e4a7a693149a47db93d0eb002c"
+    },
+    {
+      "path": "skills/educational-video/scripts/extract_frames.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c3bd10550cd52a8b091c44299f8f20bd874595d6",
+      "size": 3453,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/c3bd10550cd52a8b091c44299f8f20bd874595d6"
+    },
+    {
+      "path": "skills/educational-video/scripts/grid.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4c08e00791a0f6dba630870e9c9397e2091f8235",
+      "size": 15813,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/4c08e00791a0f6dba630870e9c9397e2091f8235"
+    },
+    {
+      "path": "skills/educational-video/scripts/mix.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0d7a04f9213b152b8fc869a5c1de14f6bda2c374",
+      "size": 9673,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/0d7a04f9213b152b8fc869a5c1de14f6bda2c374"
+    },
+    {
+      "path": "skills/educational-video/scripts/music.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7933603d383f36782415b649ee3ccdd25d5bd6ba",
+      "size": 8665,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/7933603d383f36782415b649ee3ccdd25d5bd6ba"
+    },
+    {
+      "path": "skills/educational-video/scripts/mux.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c3ce42e17d998bb59590a1d8bf70c7a5aa4aa3b3",
+      "size": 6890,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/c3ce42e17d998bb59590a1d8bf70c7a5aa4aa3b3"
+    },
+    {
+      "path": "skills/educational-video/scripts/new_project.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f34bb2fdc90f8fd1a6008d933b6cd1feba2e7305",
+      "size": 2861,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/f34bb2fdc90f8fd1a6008d933b6cd1feba2e7305"
+    },
+    {
+      "path": "skills/educational-video/scripts/projectcfg.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "05af9e10d279e520551a11c11d2af6c0591d274d",
+      "size": 1015,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/05af9e10d279e520551a11c11d2af6c0591d274d"
+    },
+    {
+      "path": "skills/educational-video/scripts/render.mjs",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f46c872208a3092fc6ae81f66f38d9eac7c31b02",
+      "size": 19035,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/f46c872208a3092fc6ae81f66f38d9eac7c31b02"
+    },
+    {
+      "path": "skills/educational-video/scripts/render.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "413df6cc3f6732ba6a2732f8180746a025ed73a7",
+      "size": 8055,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/413df6cc3f6732ba6a2732f8180746a025ed73a7"
+    },
+    {
+      "path": "skills/educational-video/scripts/review.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "dee1805119e1d98434e02a24da5ad20a8b9f67d0",
+      "size": 35284,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/dee1805119e1d98434e02a24da5ad20a8b9f67d0"
+    },
+    {
+      "path": "skills/educational-video/scripts/scaffold_engine.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "69aa694f5171f379cf6c9c6215024b716a14dc86",
+      "size": 2087,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/69aa694f5171f379cf6c9c6215024b716a14dc86"
+    },
+    {
+      "path": "skills/educational-video/scripts/scaffold_motion.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "89191c1f571ac2e6811b7cde60adbb064f2cb7c5",
+      "size": 2866,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/89191c1f571ac2e6811b7cde60adbb064f2cb7c5"
+    },
+    {
+      "path": "skills/educational-video/scripts/sfx.mjs",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2dc9da00a066583fb021cc82d35d4a7247c33c32",
+      "size": 6675,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/2dc9da00a066583fb021cc82d35d4a7247c33c32"
+    },
+    {
+      "path": "skills/educational-video/scripts/sync.mjs",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "9992be1de3d4e83e2180a3b1e4ac8d2d896b9cf3",
+      "size": 10147,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/9992be1de3d4e83e2180a3b1e4ac8d2d896b9cf3"
+    },
+    {
+      "path": "skills/educational-video/scripts/tts.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8c6dc07f190f681463ce03c8bf5889ee780e8472",
+      "size": 8104,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/8c6dc07f190f681463ce03c8bf5889ee780e8472"
+    },
+    {
+      "path": "skills/educational-video/scripts/validate_storyboard.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b07e7430e26ba8f9ab41540a35d121c471c76ee9",
+      "size": 11559,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/b07e7430e26ba8f9ab41540a35d121c471c76ee9"
+    },
+    {
+      "path": "skills/educational-video/scripts/wordtimes.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5aeaec8a2a34e2ae9c172069db61ea47aa264bad",
+      "size": 7510,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/5aeaec8a2a34e2ae9c172069db61ea47aa264bad"
+    },
+    {
+      "path": "skills/educational-video/templates",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b308c18c9a1e10ff7c5bac2fbe569fa86a1729a8",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/b308c18c9a1e10ff7c5bac2fbe569fa86a1729a8"
+    },
+    {
+      "path": "skills/educational-video/templates/gridsync.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c5912fcf72f282b5236aabe621d1a5d4d3bd931",
+      "size": 2984,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/9c5912fcf72f282b5236aabe621d1a5d4d3bd931"
+    },
+    {
+      "path": "skills/educational-video/templates/gridsync.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "422da29789cbce9e999a4d088dd91470652ad09c",
+      "size": 2862,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/422da29789cbce9e999a4d088dd91470652ad09c"
+    },
+    {
+      "path": "skills/educational-video/templates/manim",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "79ef398226bcd387157ffb5a238037742b761956",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/79ef398226bcd387157ffb5a238037742b761956"
+    },
+    {
+      "path": "skills/educational-video/templates/manim/formats.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba774a52e5cfa1f6e6f924c2cccb7b16c2c0979f",
+      "size": 8679,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/ba774a52e5cfa1f6e6f924c2cccb7b16c2c0979f"
+    },
+    {
+      "path": "skills/educational-video/templates/manim/springs.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e47d7ecd6830b0607d58858ab1523c61ab4f6146",
+      "size": 3882,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/e47d7ecd6830b0607d58858ab1523c61ab4f6146"
+    },
+    {
+      "path": "skills/educational-video/templates/remotion",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d0e3087c1f14c679a2f6b69d9cf5f21ebc58a330",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/d0e3087c1f14c679a2f6b69d9cf5f21ebc58a330"
+    },
+    {
+      "path": "skills/educational-video/templates/remotion/SceneFormats.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "04cb8a26049804bcd568af3ba0c80e0471cb795a",
+      "size": 1138,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/04cb8a26049804bcd568af3ba0c80e0471cb795a"
+    },
+    {
+      "path": "skills/educational-video/templates/remotion/formats.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a07db1707d473d0725d1849447436d61b1afcb4a",
+      "size": 4100,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/a07db1707d473d0725d1849447436d61b1afcb4a"
+    },
+    {
+      "path": "skills/educational-video/templates/remotion/springs.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7011c2ae1dea986bd4ce81f2ba3978f3964369ed",
+      "size": 4346,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/7011c2ae1dea986bd4ce81f2ba3978f3964369ed"
+    },
+    {
+      "path": "skills/educational-video/templates/review_log.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0140b82601d31688ba0d8ddf7c5787c6dd8b1c73",
+      "size": 742,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/0140b82601d31688ba0d8ddf7c5787c6dd8b1c73"
+    },
+    {
+      "path": "skills/educational-video/templates/short.storyboard.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "64f0528863a0bc7ac6c2d411639e5ed6f29dea8e",
+      "size": 2659,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/64f0528863a0bc7ac6c2d411639e5ed6f29dea8e"
+    },
+    {
+      "path": "skills/educational-video/templates/timeline.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fcae0120f5628f6616d4765fc2afce62a6f43277",
+      "size": 568,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/fcae0120f5628f6616d4765fc2afce62a6f43277"
+    },
+    {
+      "path": "tests",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2e2e1e916d4d66c7c49a6d3bb9b67d341b262bd0",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/2e2e1e916d4d66c7c49a6d3bb9b67d341b262bd0"
+    },
+    {
+      "path": "tests/fixtures",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fb5f08b0990f28a7039884a2e1088d248e1ac7fc",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/fb5f08b0990f28a7039884a2e1088d248e1ac7fc"
+    },
+    {
+      "path": "tests/fixtures/gen_spring_reference.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af1630cf79c7013c9087af50e85ededc474dddf7",
+      "size": 1730,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/af1630cf79c7013c9087af50e85ededc474dddf7"
+    },
+    {
+      "path": "tests/fixtures/spring_reference.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "99c419f38e9f80fd4c260ac937ee37d61430da56",
+      "size": 7819,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/99c419f38e9f80fd4c260ac937ee37d61430da56"
+    },
+    {
+      "path": "tests/node",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ffbe1f1abb9d3eab09f4cd5a98ab0cafe49106fa",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/ffbe1f1abb9d3eab09f4cd5a98ab0cafe49106fa"
+    },
+    {
+      "path": "tests/node/edu-captionplan.test.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c118d75074289909a4f80f0ae9938bac0fd8d2f2",
+      "size": 2530,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/c118d75074289909a4f80f0ae9938bac0fd8d2f2"
+    },
+    {
+      "path": "tests/node/edu-color.test.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ac2341930da09e54bf5072483b31550289b2cf6",
+      "size": 890,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/7ac2341930da09e54bf5072483b31550289b2cf6"
+    },
+    {
+      "path": "tests/node/edu-core.test.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2185063320e947bb090c5cdd984872db90d057e3",
+      "size": 2274,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/2185063320e947bb090c5cdd984872db90d057e3"
+    },
+    {
+      "path": "tests/node/edu-files.test.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "627bcd7424a9bd64c03cbf24965556b7f6ffb6f2",
+      "size": 2497,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/627bcd7424a9bd64c03cbf24965556b7f6ffb6f2"
+    },
+    {
+      "path": "tests/node/edu-layout.test.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "61dfc31ba74ff172a8ed08334e4a2a34c5518baa",
+      "size": 2010,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/61dfc31ba74ff172a8ed08334e4a2a34c5518baa"
+    },
+    {
+      "path": "tests/node/edu-plotmath.test.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "14d7e52a727f1bd3bffb0c22f882364a1458e5be",
+      "size": 1776,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/14d7e52a727f1bd3bffb0c22f882364a1458e5be"
+    },
+    {
+      "path": "tests/node/edu-termplan.test.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a335a9f4fca3a7f91d4079bbd720f1d2c4e1e04",
+      "size": 2148,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/5a335a9f4fca3a7f91d4079bbd720f1d2c4e1e04"
+    },
+    {
+      "path": "tests/node/edu-tokens.test.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "581ea9d0381100fa9a16f930e88c56aa5ba1f1d0",
+      "size": 1706,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/581ea9d0381100fa9a16f930e88c56aa5ba1f1d0"
+    },
+    {
+      "path": "tests/node/edu-zones.test.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "142350576df98dc2a3ee17c839e48441996cb573",
+      "size": 2166,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/142350576df98dc2a3ee17c839e48441996cb573"
+    },
+    {
+      "path": "tests/node/formats.test.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c54dc4d64d2c19ff1d88d397a1b0bcf37fbcd5a",
+      "size": 2856,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/0c54dc4d64d2c19ff1d88d397a1b0bcf37fbcd5a"
+    },
+    {
+      "path": "tests/node/helpers",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8e589e6e388b8d71a04a475f51fe5edaf79ae95e",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/8e589e6e388b8d71a04a475f51fe5edaf79ae95e"
+    },
+    {
+      "path": "tests/node/helpers/engine.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1a1e08e27c5332cca8c0ae219811fbfdf3eb09e",
+      "size": 2996,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/b1a1e08e27c5332cca8c0ae219811fbfdf3eb09e"
+    },
+    {
+      "path": "tests/node/index.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "280d80adcdbfa02f134cd536b695e9332b5010a4",
+      "size": 534,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/280d80adcdbfa02f134cd536b695e9332b5010a4"
+    },
+    {
+      "path": "tests/node/motion-core.test.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "202860c9ca1e4719a2d566f92f336e1e1523063d",
+      "size": 6955,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/202860c9ca1e4719a2d566f92f336e1e1523063d"
+    },
+    {
+      "path": "tests/node/motion-render.test.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1b1991915c4f8a11420d26c0c4f56e734a9871f1",
+      "size": 1191,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/1b1991915c4f8a11420d26c0c4f56e734a9871f1"
+    },
+    {
+      "path": "tests/node/motion-springs.test.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0966f5f76d3693a66cb22d90582841e9250f14dc",
+      "size": 2853,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/0966f5f76d3693a66cb22d90582841e9250f14dc"
+    },
+    {
+      "path": "tests/node/motion-sync.test.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "faaeac85d31b6742ef8d38d948c8ebc715d44bd8",
+      "size": 9036,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/faaeac85d31b6742ef8d38d948c8ebc715d44bd8"
+    },
+    {
+      "path": "tests/node/motion-time.test.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8bcc4bb37cddfcc74dc203e214574521c6fae837",
+      "size": 2980,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/8bcc4bb37cddfcc74dc203e214574521c6fae837"
+    },
+    {
+      "path": "tests/node/sfx.test.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f1f3a5b41a9e2561597b60102c41a78b6160ea45",
+      "size": 3309,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/f1f3a5b41a9e2561597b60102c41a78b6160ea45"
+    },
+    {
+      "path": "tests/node/skill-layout.test.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b35ba3c9f6c83b21eb7be8a8706e680e8513f4d9",
+      "size": 1310,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/b35ba3c9f6c83b21eb7be8a8706e680e8513f4d9"
+    },
+    {
+      "path": "tests/node/springs.test.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec859479d85956fa57b4cd31509b394c410f1b7f",
+      "size": 2770,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/ec859479d85956fa57b4cd31509b394c410f1b7f"
+    },
+    {
+      "path": "tests/py",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "aa72ff1ceef3c460d1e7bbd5a07d76c299465ebc",
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/trees/aa72ff1ceef3c460d1e7bbd5a07d76c299465ebc"
+    },
+    {
+      "path": "tests/py/conftest.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb9030c35354f8d344ce6ba40081da7546582cfe",
+      "size": 2508,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/eb9030c35354f8d344ce6ba40081da7546582cfe"
+    },
+    {
+      "path": "tests/py/synth.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1a0f4038264ff205ce82d2d7306a3e74dc13a03",
+      "size": 1756,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/e1a0f4038264ff205ce82d2d7306a3e74dc13a03"
+    },
+    {
+      "path": "tests/py/test_critic_docs.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "696e4584ba0d3a47341f09f676bf0838dcab8373",
+      "size": 1081,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/696e4584ba0d3a47341f09f676bf0838dcab8373"
+    },
+    {
+      "path": "tests/py/test_detect_tts.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4dd7a5cd9a4a3014168fefcb65696b56cab652ae",
+      "size": 1686,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/4dd7a5cd9a4a3014168fefcb65696b56cab652ae"
+    },
+    {
+      "path": "tests/py/test_examples.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "422c2e1110924fbaa002a53f350ad4dee2bddd0e",
+      "size": 890,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/422c2e1110924fbaa002a53f350ad4dee2bddd0e"
+    },
+    {
+      "path": "tests/py/test_formats_manim.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4ba139486c9784e60c3215c91890b0f3ecd4618",
+      "size": 4497,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/f4ba139486c9784e60c3215c91890b0f3ecd4618"
+    },
+    {
+      "path": "tests/py/test_grid.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c9968302f59c146fe2d66433b903f09d9dfac306",
+      "size": 10137,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/c9968302f59c146fe2d66433b903f09d9dfac306"
+    },
+    {
+      "path": "tests/py/test_gridsync.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a103f7c9fef6135a16291c900d88bc5c7840ef7a",
+      "size": 1903,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/a103f7c9fef6135a16291c900d88bc5c7840ef7a"
+    },
+    {
+      "path": "tests/py/test_mix.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3287afa048b61a6e113b49f6fde194d1b96a0a9c",
+      "size": 6872,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/3287afa048b61a6e113b49f6fde194d1b96a0a9c"
+    },
+    {
+      "path": "tests/py/test_music.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "40a355a446e605483baeb7e450393842788d92e6",
+      "size": 3263,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/40a355a446e605483baeb7e450393842788d92e6"
+    },
+    {
+      "path": "tests/py/test_mux.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d225530583677f52734d9096fd7639d964491d15",
+      "size": 6551,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/d225530583677f52734d9096fd7639d964491d15"
+    },
+    {
+      "path": "tests/py/test_new_project.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "199492602fd3b701ce0a600f918849acd7e81755",
+      "size": 7405,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/199492602fd3b701ce0a600f918849acd7e81755"
+    },
+    {
+      "path": "tests/py/test_presets.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e85ba4fe15601c9c6e12c8c914b6aa6bd4a020a",
+      "size": 6098,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/8e85ba4fe15601c9c6e12c8c914b6aa6bd4a020a"
+    },
+    {
+      "path": "tests/py/test_render_formats.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "205f137a269fc4f1402de9739011aa0f293f5d60",
+      "size": 1321,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/205f137a269fc4f1402de9739011aa0f293f5d60"
+    },
+    {
+      "path": "tests/py/test_review_audio.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1461435605012588411cb1f4ca3185ee54a9da0",
+      "size": 1846,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/e1461435605012588411cb1f4ca3185ee54a9da0"
+    },
+    {
+      "path": "tests/py/test_review_cli.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8a56898650a25c8d5ce208e329553a1f345dc439",
+      "size": 3510,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/8a56898650a25c8d5ce208e329553a1f345dc439"
+    },
+    {
+      "path": "tests/py/test_review_discovery.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "679c532b2defdcec05586b740ce2a8e5fcbd119a",
+      "size": 2825,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/679c532b2defdcec05586b740ce2a8e5fcbd119a"
+    },
+    {
+      "path": "tests/py/test_review_flags.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d8719f65a9cb58486c16c337f12e652f5b200df",
+      "size": 2490,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/3d8719f65a9cb58486c16c337f12e652f5b200df"
+    },
+    {
+      "path": "tests/py/test_review_metrics.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "12cc27f52f1a5c049f2211e232715ce1a7f24dba",
+      "size": 3904,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/12cc27f52f1a5c049f2211e232715ce1a7f24dba"
+    },
+    {
+      "path": "tests/py/test_review_sheets.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d8fe0b3038bb3c2dfea6a9931040cc12f57045a",
+      "size": 2718,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/1d8fe0b3038bb3c2dfea6a9931040cc12f57045a"
+    },
+    {
+      "path": "tests/py/test_review_sync.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "68e2cdbb16c5e75ee7c692f4195824f41b1f9ea7",
+      "size": 2725,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/68e2cdbb16c5e75ee7c692f4195824f41b1f9ea7"
+    },
+    {
+      "path": "tests/py/test_scaffold_engine.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "66b976947cc800a417d138ea602a9220da1ce19e",
+      "size": 1689,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/66b976947cc800a417d138ea602a9220da1ce19e"
+    },
+    {
+      "path": "tests/py/test_schema_doc.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1b680cc20e49c01581ffcad783552f1ea55a612",
+      "size": 1344,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/b1b680cc20e49c01581ffcad783552f1ea55a612"
+    },
+    {
+      "path": "tests/py/test_shell_scripts.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "734c4782a416f4cf95f964dc4941df5de38a1d4b",
+      "size": 4116,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/734c4782a416f4cf95f964dc4941df5de38a1d4b"
+    },
+    {
+      "path": "tests/py/test_springs.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "24d09db98dada0f7df654a524673a4d4bd5bc485",
+      "size": 2428,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/24d09db98dada0f7df654a524673a4d4bd5bc485"
+    },
+    {
+      "path": "tests/py/test_subtitles.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c75ad7f4030b3585f281968bb5eedcc828289e8b",
+      "size": 2793,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/c75ad7f4030b3585f281968bb5eedcc828289e8b"
+    },
+    {
+      "path": "tests/py/test_tts.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73076d3dbd4ef97e0cf3e4e6bc4340f15f891ce6",
+      "size": 4696,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/73076d3dbd4ef97e0cf3e4e6bc4340f15f891ce6"
+    },
+    {
+      "path": "tests/py/test_validator_anchors.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f10d6c65d9a452c224414d7d8aae34ece526b5f",
+      "size": 3370,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/1f10d6c65d9a452c224414d7d8aae34ece526b5f"
+    },
+    {
+      "path": "tests/py/test_validator_short.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "994380b68afd059dd83eadaa796cf000928abf28",
+      "size": 3149,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/994380b68afd059dd83eadaa796cf000928abf28"
+    },
+    {
+      "path": "tests/py/test_validator_v1.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ef2247491b7bb2b777f8d5b02e1b2b6eccb6e474",
+      "size": 4050,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/ef2247491b7bb2b777f8d5b02e1b2b6eccb6e474"
+    },
+    {
+      "path": "tests/py/test_validator_v2.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9fc562fa4750273a0e3de48e03a428fad6275d00",
+      "size": 4167,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/9fc562fa4750273a0e3de48e03a428fad6275d00"
+    },
+    {
+      "path": "tests/py/test_wordtimes.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "28690b93439ad17eca8599ce2e5641271a523968",
+      "size": 3119,
+      "url": "https://api.github.com/repos/jabezpauls/edu-video-generator/git/blobs/28690b93439ad17eca8599ce2e5641271a523968"
+    }
+  ],
+  "truncated": false
+}

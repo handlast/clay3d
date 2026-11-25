@@ -1,0 +1,146 @@
+{
+  "sha": "fccc94bd325d824235ee9e715e65abde57b6513a",
+  "url": "https://api.github.com/repos/iart-ai/kinetic-typography-skills/git/trees/fccc94bd325d824235ee9e715e65abde57b6513a",
+  "tree": [
+    {
+      "path": ".claude-plugin",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d00a74ee37e77507eeede8176384b6e8e11d298e",
+      "url": "https://api.github.com/repos/iart-ai/kinetic-typography-skills/git/trees/d00a74ee37e77507eeede8176384b6e8e11d298e"
+    },
+    {
+      "path": ".claude-plugin/marketplace.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5150b584f697acd181ea79cf943487c9ca7f4d3d",
+      "size": 400,
+      "url": "https://api.github.com/repos/iart-ai/kinetic-typography-skills/git/blobs/5150b584f697acd181ea79cf943487c9ca7f4d3d"
+    },
+    {
+      "path": ".claude-plugin/plugin.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9548984392b9da4b54019a96c139046551d96633",
+      "size": 634,
+      "url": "https://api.github.com/repos/iart-ai/kinetic-typography-skills/git/blobs/9548984392b9da4b54019a96c139046551d96633"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a61b911146037f2ef312f67e9b45de6c99b7f870",
+      "size": 1064,
+      "url": "https://api.github.com/repos/iart-ai/kinetic-typography-skills/git/blobs/a61b911146037f2ef312f67e9b45de6c99b7f870"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3c4a8f2cf098800451ce9fc26fe4bdc7ee03d71c",
+      "size": 4431,
+      "url": "https://api.github.com/repos/iart-ai/kinetic-typography-skills/git/blobs/3c4a8f2cf098800451ce9fc26fe4bdc7ee03d71c"
+    },
+    {
+      "path": "scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "49930af3c8260b7d38924a9711a50b99a32cb66d",
+      "url": "https://api.github.com/repos/iart-ai/kinetic-typography-skills/git/trees/49930af3c8260b7d38924a9711a50b99a32cb66d"
+    },
+    {
+      "path": "scripts/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b0a78352725fab6bba6f4969abe4f29ef6f5487",
+      "size": 2028,
+      "url": "https://api.github.com/repos/iart-ai/kinetic-typography-skills/git/blobs/3b0a78352725fab6bba6f4969abe4f29ef6f5487"
+    },
+    {
+      "path": "scripts/contact-sheet.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d0032c4d920b8e3369898bb754f96c8ed8afe0d9",
+      "size": 851,
+      "url": "https://api.github.com/repos/iart-ai/kinetic-typography-skills/git/blobs/d0032c4d920b8e3369898bb754f96c8ed8afe0d9"
+    },
+    {
+      "path": "scripts/probe-mp4.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5e9d0b3ea4ed5cf8d3471ea2f9c6159276a09273",
+      "size": 1514,
+      "url": "https://api.github.com/repos/iart-ai/kinetic-typography-skills/git/blobs/5e9d0b3ea4ed5cf8d3471ea2f9c6159276a09273"
+    },
+    {
+      "path": "scripts/seek-shot.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2020ad13d269aa5b41708ee02d7eabc40b9c3a2d",
+      "size": 1095,
+      "url": "https://api.github.com/repos/iart-ai/kinetic-typography-skills/git/blobs/2020ad13d269aa5b41708ee02d7eabc40b9c3a2d"
+    },
+    {
+      "path": "showcase.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "72f1e6d1ddf2e94a9e2eb9f78a61e38bab4927ca",
+      "size": 3693777,
+      "url": "https://api.github.com/repos/iart-ai/kinetic-typography-skills/git/blobs/72f1e6d1ddf2e94a9e2eb9f78a61e38bab4927ca"
+    },
+    {
+      "path": "showcase.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "30a08c0033544cc6284e943328f65e25ac27dac3",
+      "size": 17884,
+      "url": "https://api.github.com/repos/iart-ai/kinetic-typography-skills/git/blobs/30a08c0033544cc6284e943328f65e25ac27dac3"
+    },
+    {
+      "path": "skills",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8950293e45f5e270d4447752988b38e1c63fc782",
+      "url": "https://api.github.com/repos/iart-ai/kinetic-typography-skills/git/trees/8950293e45f5e270d4447752988b38e1c63fc782"
+    },
+    {
+      "path": "skills/kinetic-typography",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "95afebecf0106d585f7070c55e31df92a79c2fe5",
+      "url": "https://api.github.com/repos/iart-ai/kinetic-typography-skills/git/trees/95afebecf0106d585f7070c55e31df92a79c2fe5"
+    },
+    {
+      "path": "skills/kinetic-typography/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/iart-ai/kinetic-typography-skills/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "skills/kinetic-typography/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9608fee2fcfe6c2eae9c9c7517c01923123af61",
+      "size": 7793,
+      "url": "https://api.github.com/repos/iart-ai/kinetic-typography-skills/git/blobs/b9608fee2fcfe6c2eae9c9c7517c01923123af61"
+    },
+    {
+      "path": "skills/kinetic-typography/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8ee1e5162eebc05322bf199d989ed77426f3d3a9",
+      "url": "https://api.github.com/repos/iart-ai/kinetic-typography-skills/git/trees/8ee1e5162eebc05322bf199d989ed77426f3d3a9"
+    },
+    {
+      "path": "skills/kinetic-typography/references/reveal-recipes.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b7368c831358bda6cfbe0a7a843b51318a09232b",
+      "size": 7224,
+      "url": "https://api.github.com/repos/iart-ai/kinetic-typography-skills/git/blobs/b7368c831358bda6cfbe0a7a843b51318a09232b"
+    }
+  ],
+  "truncated": false
+}

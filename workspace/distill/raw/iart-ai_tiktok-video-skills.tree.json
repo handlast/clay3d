@@ -1,0 +1,268 @@
+{
+  "sha": "2a775336b5a638cbf8a61dbd785f9a1b649be016",
+  "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/trees/2a775336b5a638cbf8a61dbd785f9a1b649be016",
+  "tree": [
+    {
+      "path": ".claude-plugin",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6c16292cbb4cc95bfd3ab7652f20aae6954bcb67",
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/trees/6c16292cbb4cc95bfd3ab7652f20aae6954bcb67"
+    },
+    {
+      "path": ".claude-plugin/marketplace.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be5275cf3a810c428fa494f1bdc8bf865a14c3ac",
+      "size": 329,
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/blobs/be5275cf3a810c428fa494f1bdc8bf865a14c3ac"
+    },
+    {
+      "path": ".claude-plugin/plugin.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca7b09fad7594c23cee80d1e8f3921a9bd41a4ff",
+      "size": 571,
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/blobs/ca7b09fad7594c23cee80d1e8f3921a9bd41a4ff"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a61b911146037f2ef312f67e9b45de6c99b7f870",
+      "size": 1064,
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/blobs/a61b911146037f2ef312f67e9b45de6c99b7f870"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "497e38b893d9a9235977d575d0125f39e1c4c3d9",
+      "size": 5005,
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/blobs/497e38b893d9a9235977d575d0125f39e1c4c3d9"
+    },
+    {
+      "path": "scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "49930af3c8260b7d38924a9711a50b99a32cb66d",
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/trees/49930af3c8260b7d38924a9711a50b99a32cb66d"
+    },
+    {
+      "path": "scripts/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b0a78352725fab6bba6f4969abe4f29ef6f5487",
+      "size": 2028,
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/blobs/3b0a78352725fab6bba6f4969abe4f29ef6f5487"
+    },
+    {
+      "path": "scripts/contact-sheet.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d0032c4d920b8e3369898bb754f96c8ed8afe0d9",
+      "size": 851,
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/blobs/d0032c4d920b8e3369898bb754f96c8ed8afe0d9"
+    },
+    {
+      "path": "scripts/probe-mp4.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5e9d0b3ea4ed5cf8d3471ea2f9c6159276a09273",
+      "size": 1514,
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/blobs/5e9d0b3ea4ed5cf8d3471ea2f9c6159276a09273"
+    },
+    {
+      "path": "scripts/seek-shot.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2020ad13d269aa5b41708ee02d7eabc40b9c3a2d",
+      "size": 1095,
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/blobs/2020ad13d269aa5b41708ee02d7eabc40b9c3a2d"
+    },
+    {
+      "path": "showcase.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "534d3106bde0a29c3938571e0c75e0701608dff6",
+      "size": 3794665,
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/blobs/534d3106bde0a29c3938571e0c75e0701608dff6"
+    },
+    {
+      "path": "showcase.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "991c9df0c86cbf2610ba69e787e0c4c9dc59fc0d",
+      "size": 20107,
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/blobs/991c9df0c86cbf2610ba69e787e0c4c9dc59fc0d"
+    },
+    {
+      "path": "skills",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8aaebc8a6bbb614cf9d14f95414e873bae7d9c11",
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/trees/8aaebc8a6bbb614cf9d14f95414e873bae7d9c11"
+    },
+    {
+      "path": "skills/caption-animation",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "843748970c1b55ba0372bfe48fa5c6e9929f3aeb",
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/trees/843748970c1b55ba0372bfe48fa5c6e9929f3aeb"
+    },
+    {
+      "path": "skills/caption-animation/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2685cf8125510a6d901731fd0f27f65747b3414f",
+      "size": 1426,
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/blobs/2685cf8125510a6d901731fd0f27f65747b3414f"
+    },
+    {
+      "path": "skills/caption-animation/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f648cbdf7e2bb9b0f96c8537da39ee9c5e0d9908",
+      "size": 9937,
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/blobs/f648cbdf7e2bb9b0f96c8537da39ee9c5e0d9908"
+    },
+    {
+      "path": "skills/caption-animation/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b07c5d9a5b36fbde5f76f492ca5095530149b059",
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/trees/b07c5d9a5b36fbde5f76f492ca5095530149b059"
+    },
+    {
+      "path": "skills/caption-animation/references/word-timed-captions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3bb9ceb579340cac57a6bef766cc1b057652d75c",
+      "size": 10180,
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/blobs/3bb9ceb579340cac57a6bef766cc1b057652d75c"
+    },
+    {
+      "path": "skills/countdown-video",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "25f479dc89f2937f6efae8e7324987476c3fceb8",
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/trees/25f479dc89f2937f6efae8e7324987476c3fceb8"
+    },
+    {
+      "path": "skills/countdown-video/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "83cc54741f1cd5389f1a162cdf0edbd407aeff8c",
+      "size": 1494,
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/blobs/83cc54741f1cd5389f1a162cdf0edbd407aeff8c"
+    },
+    {
+      "path": "skills/countdown-video/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "43b66ababf707df7eae79d3cdab2efadd456563f",
+      "size": 9450,
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/blobs/43b66ababf707df7eae79d3cdab2efadd456563f"
+    },
+    {
+      "path": "skills/countdown-video/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9f72754ebf79f84ccf1080d9ad820376b4703bdf",
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/trees/9f72754ebf79f84ccf1080d9ad820376b4703bdf"
+    },
+    {
+      "path": "skills/countdown-video/references/countdown-cookbook.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f6c505fb00791adc7a3137871d13aa6806df1559",
+      "size": 7814,
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/blobs/f6c505fb00791adc7a3137871d13aa6806df1559"
+    },
+    {
+      "path": "skills/countdown-video/references/digit-flip.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2ba204d0cac84a0fa80adb6326b50773c4b1b7f0",
+      "size": 6083,
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/blobs/2ba204d0cac84a0fa80adb6326b50773c4b1b7f0"
+    },
+    {
+      "path": "skills/lower-thirds",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a44c1498a94771dfbdb75b98d75c5f68f76762b4",
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/trees/a44c1498a94771dfbdb75b98d75c5f68f76762b4"
+    },
+    {
+      "path": "skills/lower-thirds/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f3ee500e283ad820d0b2c2730509bca699b7640",
+      "size": 1414,
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/blobs/1f3ee500e283ad820d0b2c2730509bca699b7640"
+    },
+    {
+      "path": "skills/lower-thirds/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ca8fbb1478de77124a227abbf7fac689846b46c",
+      "size": 9620,
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/blobs/1ca8fbb1478de77124a227abbf7fac689846b46c"
+    },
+    {
+      "path": "skills/lower-thirds/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1ec54c4cf9410048be7445b96fd6cd2166d3ef92",
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/trees/1ec54c4cf9410048be7445b96fd6cd2166d3ef92"
+    },
+    {
+      "path": "skills/lower-thirds/references/lower-third-component.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a8f7b548c92a438cfc5d2d846b744f227654905f",
+      "size": 9994,
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/blobs/a8f7b548c92a438cfc5d2d846b744f227654905f"
+    },
+    {
+      "path": "skills/short-form-video",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7ae51234f6578dd02d7ebbb16e8f5fbda98a3f94",
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/trees/7ae51234f6578dd02d7ebbb16e8f5fbda98a3f94"
+    },
+    {
+      "path": "skills/short-form-video/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c733aa3f0bcc1ea17d564ec48dbd95ff2d20e657",
+      "size": 1377,
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/blobs/c733aa3f0bcc1ea17d564ec48dbd95ff2d20e657"
+    },
+    {
+      "path": "skills/short-form-video/SKILL.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7bc689429479a7f3364670770429840ba945bc3e",
+      "size": 11079,
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/blobs/7bc689429479a7f3364670770429840ba945bc3e"
+    },
+    {
+      "path": "skills/short-form-video/references",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fa09b853d13ce1b3ecc3f7e1493ca290c59b62df",
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/trees/fa09b853d13ce1b3ecc3f7e1493ca290c59b62df"
+    },
+    {
+      "path": "skills/short-form-video/references/retention-pacing.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2a3ab7bd2ca6d0b77161434985555aee4ffedd72",
+      "size": 9910,
+      "url": "https://api.github.com/repos/iart-ai/tiktok-video-skills/git/blobs/2a3ab7bd2ca6d0b77161434985555aee4ffedd72"
+    }
+  ],
+  "truncated": false
+}
